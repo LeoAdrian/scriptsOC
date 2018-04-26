@@ -1,0 +1,2685 @@
+[
+    {
+        "sort_order": 1,
+        "name": "Timp de uscare",
+        "attribute_group_id": 33,
+        "attributes": [
+            {
+                "sortId": 298,
+                "id": 336,
+                "name": "Timp mentinere pentru lipire"
+            },
+            {
+                "sortId": 356,
+                "id": 328,
+                "name": "Aderenta partiala"
+            },
+            {
+                "sortId": 357,
+                "id": 329,
+                "name": "Aderenta finala"
+            },
+            {
+                "sortId": 361,
+                "id": 333,
+                "name": "Uscare/Timp intarire"
+            },
+            {
+                "sortId": 362,
+                "id": 334,
+                "name": "Intarire completa"
+            }
+        ]
+    },
+    {
+        "sort_order": 1,
+        "name": "Garantie",
+        "attribute_group_id": 7,
+        "attributes": [
+            {
+                "sortId": 1,
+                "id": 12,
+                "name": "Garantie"
+            }
+        ]
+    },
+    {
+        "sort_order": 2,
+        "name": "Caracteristici generale",
+        "attribute_group_id": 8,
+        "attributes": [
+            {
+                "sortId": 158,
+                "id": 172,
+                "name": "Suprafata lucru"
+            },
+            {
+                "sortId": 56,
+                "id": 67,
+                "name": "Adancime (mm)"
+            },
+            {
+                "sortId": 4,
+                "id": 15,
+                "name": "Putere termica utila min/max (kW)"
+            },
+            {
+                "sortId": 3,
+                "id": 14,
+                "name": "Putere termica nominala min/max (50/30 grdC)"
+            },
+            {
+                "sortId": 5,
+                "id": 16,
+                "name": "Tiraj"
+            },
+            {
+                "sortId": 25,
+                "id": 36,
+                "name": "Inaltime (mm)"
+            },
+            {
+                "sortId": 6,
+                "id": 17,
+                "name": "Panou de comanda"
+            },
+            {
+                "sortId": 7,
+                "id": 18,
+                "name": "Randament (%)"
+            },
+            {
+                "sortId": 8,
+                "id": 19,
+                "name": "Suprafata spatiului ce trebuie incalzit (m²)"
+            },
+            {
+                "sortId": 4,
+                "id": 47,
+                "name": "Putere termica nominala min/max (80/60 grdC)"
+            },
+            {
+                "sortId": 2,
+                "id": 13,
+                "name": "Tip centrala"
+            },
+            {
+                "sortId": 24,
+                "id": 35,
+                "name": "Greutate (Kg)"
+            },
+            {
+                "sortId": 9,
+                "id": 20,
+                "name": "Consum maxim (m³)"
+            },
+            {
+                "sortId": 137,
+                "id": 151,
+                "name": "Presiune vasului de expansiune (bar)"
+            },
+            {
+                "sortId": 57,
+                "id": 68,
+                "name": "Latime (mm)"
+            },
+            {
+                "sortId": 363,
+                "id": 335,
+                "name": "Comportamentul la vopsire"
+            },
+            {
+                "sortId": 60,
+                "id": 71,
+                "name": "Tip boiler"
+            },
+            {
+                "sortId": 59,
+                "id": 70,
+                "name": "Diametru (mm)"
+            },
+            {
+                "sortId": 364,
+                "id": 337,
+                "name": "Temperatura de rezistenta"
+            },
+            {
+                "sortId": 61,
+                "id": 72,
+                "name": "Tip instalare"
+            },
+            {
+                "sortId": 140,
+                "id": 154,
+                "name": "Presiune maxima in circuitul de incalzire (bar)"
+            },
+            {
+                "sortId": 64,
+                "id": 75,
+                "name": "Instant"
+            },
+            {
+                "sortId": 62,
+                "id": 73,
+                "name": "Tip alimentare"
+            },
+            {
+                "sortId": 63,
+                "id": 74,
+                "name": "Termostat reglabil"
+            },
+            {
+                "sortId": 132,
+                "id": 146,
+                "name": "Temperatura minima a agentului termic de incalzire (°C)"
+            },
+            {
+                "sortId": 66,
+                "id": 77,
+                "name": "Tip montare"
+            },
+            {
+                "sortId": 65,
+                "id": 76,
+                "name": "Tip control"
+            },
+            {
+                "sortId": 134,
+                "id": 148,
+                "name": "Volum de apa din cazan (l)"
+            },
+            {
+                "sortId": 143,
+                "id": 157,
+                "name": "Temperatura maxima apa calda sanitara (°C)"
+            },
+            {
+                "sortId": 136,
+                "id": 150,
+                "name": "Volum de apa al vasului de expansiune (l)"
+            },
+            {
+                "sortId": 135,
+                "id": 149,
+                "name": "Debit calorific nominal (KW)"
+            },
+            {
+                "sortId": 133,
+                "id": 147,
+                "name": "Temperatura maxima a agentului termic de incalzire (°C)"
+            },
+            {
+                "sortId": 141,
+                "id": 155,
+                "name": "Continutul de CO2 (%)        "
+            },
+            {
+                "sortId": 131,
+                "id": 145,
+                "name": "Putere nominala (KW)"
+            },
+            {
+                "sortId": 139,
+                "id": 153,
+                "name": "Presiune minima in circuitul de incalzire (bar)"
+            },
+            {
+                "sortId": 138,
+                "id": 152,
+                "name": "Debit calorific minim (KW)"
+            },
+            {
+                "sortId": 130,
+                "id": 144,
+                "name": "Putere minima (KW)"
+            },
+            {
+                "sortId": 142,
+                "id": 156,
+                "name": "Temperatura minima apa calda sanitara (°C)"
+            },
+            {
+                "sortId": 249,
+                "id": 291,
+                "name": "Tip mandrina"
+            },
+            {
+                "sortId": 297,
+                "id": 327,
+                "name": "Termen de valabilitate"
+            },
+            {
+                "sortId": 170,
+                "id": 184,
+                "name": "Tip taiere"
+            },
+            {
+                "sortId": 169,
+                "id": 183,
+                "name": "Unealta compatibila"
+            },
+            {
+                "sortId": 160,
+                "id": 174,
+                "name": "Numar bucati/set"
+            },
+            {
+                "sortId": 157,
+                "id": 171,
+                "name": "Tip produs"
+            },
+            {
+                "sortId": 159,
+                "id": 173,
+                "name": "Material"
+            },
+            {
+                "sortId": 274,
+                "id": 302,
+                "name": "Schimbator centrala termica"
+            },
+            {
+                "sortId": 158,
+                "id": 495,
+                "name": "Profil disc"
+            },
+            {
+                "sortId": 250,
+                "id": 292,
+                "name": "Dimensiune mandrina"
+            },
+            {
+                "sortId": 275,
+                "id": 303,
+                "name": "Racord gaze"
+            },
+            {
+                "sortId": 248,
+                "id": 290,
+                "name": "Tip lucrare"
+            },
+            {
+                "sortId": 160,
+                "id": 496,
+                "name": "Tip discuri"
+            },
+            {
+                "sortId": 291,
+                "id": 321,
+                "name": "Capacitate de umplere"
+            },
+            {
+                "sortId": 290,
+                "id": 320,
+                "name": "Rezistenta la chimicale"
+            },
+            {
+                "sortId": 289,
+                "id": 319,
+                "name": "Rezistenta la temperatura"
+            },
+            {
+                "sortId": 288,
+                "id": 318,
+                "name": "Rezistenta la umiditate"
+            },
+            {
+                "sortId": 251,
+                "id": 293,
+                "name": "Functii"
+            },
+            {
+                "sortId": 287,
+                "id": 317,
+                "name": "Tip lipire"
+            },
+            {
+                "sortId": 358,
+                "id": 330,
+                "name": "Rezistenta la radiatii UV"
+            },
+            {
+                "sortId": 360,
+                "id": 332,
+                "name": "Rezistenta la apa"
+            }
+        ]
+    },
+    {
+        "sort_order": 3,
+        "name": "Functii",
+        "attribute_group_id": 12,
+        "attributes": [
+            {
+                "sortId": 11,
+                "id": 22,
+                "name": "Tip pompa"
+            },
+            {
+                "sortId": 10,
+                "id": 21,
+                "name": "Debit apa calda(l/min)"
+            },
+            {
+                "sortId": 12,
+                "id": 23,
+                "name": "Raport de modulare"
+            },
+            {
+                "sortId": 13,
+                "id": 24,
+                "name": "Kit evacuare gaze"
+            },
+            {
+                "sortId": 14,
+                "id": 25,
+                "name": "Vas de expansiune"
+            },
+            {
+                "sortId": 15,
+                "id": 26,
+                "name": "Boiler incorporat"
+            },
+            {
+                "sortId": 16,
+                "id": 27,
+                "name": "Ventilator"
+            },
+            {
+                "sortId": 18,
+                "id": 29,
+                "name": "Eficienta la putere nominala (%)"
+            },
+            {
+                "sortId": 19,
+                "id": 30,
+                "name": "Clasa de eficienta energetica"
+            },
+            {
+                "sortId": 75,
+                "id": 87,
+                "name": "Afisaj"
+            },
+            {
+                "sortId": 119,
+                "id": 133,
+                "name": "Masurarea indirecta a inaltimilor"
+            }
+        ]
+    },
+    {
+        "sort_order": 4,
+        "name": "Eficienta",
+        "attribute_group_id": 13,
+        "attributes": [
+            {
+                "sortId": 17,
+                "id": 28,
+                "name": "Eficienta combustiei (%)"
+            }
+        ]
+    },
+    {
+        "sort_order": 5,
+        "name": "Siguranta in exploatare",
+        "attribute_group_id": 14,
+        "attributes": [
+            {
+                "sortId": 20,
+                "id": 31,
+                "name": "Protectie la inghet"
+            },
+            {
+                "sortId": 21,
+                "id": 32,
+                "name": "Cantitate maxima de gaze evacuate (kg/h)"
+            },
+            {
+                "sortId": 22,
+                "id": 33,
+                "name": "Temperatura gazelor evacuate ( ̊C)"
+            },
+            {
+                "sortId": 23,
+                "id": 34,
+                "name": "Clasa Nox"
+            }
+        ]
+    },
+    {
+        "sort_order": 6,
+        "name": "Specificatii tehnice",
+        "attribute_group_id": 15,
+        "attributes": [
+            {
+                "sortId": 38,
+                "id": 49,
+                "name": "Consum (W)"
+            },
+            {
+                "sortId": 294,
+                "id": 324,
+                "name": "Vascozitate"
+            },
+            {
+                "sortId": 26,
+                "id": 37,
+                "name": "Tensiune alimentare (V)"
+            },
+            {
+                "sortId": 29,
+                "id": 397,
+                "name": "Latime (cm)"
+            },
+            {
+                "sortId": 40,
+                "id": 408,
+                "name": "Temp. de operare (°C)"
+            },
+            {
+                "sortId": 47,
+                "id": 58,
+                "name": "Capacitate rezervor incorporat"
+            },
+            {
+                "sortId": 27,
+                "id": 38,
+                "name": "Putere totala consumata (W)"
+            },
+            {
+                "sortId": 293,
+                "id": 323,
+                "name": "Culoare"
+            },
+            {
+                "sortId": 31,
+                "id": 399,
+                "name": "Temperatura inalta (°C)"
+            },
+            {
+                "sortId": 32,
+                "id": 400,
+                "name": "Diam. bagheta de lipit (mm)"
+            },
+            {
+                "sortId": 33,
+                "id": 401,
+                "name": "Varf de precizie"
+            },
+            {
+                "sortId": 34,
+                "id": 402,
+                "name": "Control de picurare"
+            },
+            {
+                "sortId": 39,
+                "id": 407,
+                "name": "Diametru (mm)"
+            },
+            {
+                "sortId": 41,
+                "id": 409,
+                "name": "Latime (mm)"
+            },
+            {
+                "sortId": 42,
+                "id": 410,
+                "name": "Inaltime (mm)"
+            },
+            {
+                "sortId": 292,
+                "id": 322,
+                "name": "Baza"
+            },
+            {
+                "sortId": 40,
+                "id": 51,
+                "name": "Diametru racord evacuare gaze de ardere"
+            },
+            {
+                "sortId": 41,
+                "id": 52,
+                "name": "Distante de sig. fata de mat. comb. (lateral/spate/fata)"
+            },
+            {
+                "sortId": 30,
+                "id": 398,
+                "name": "Adancime (cm)"
+            },
+            {
+                "sortId": 28,
+                "id": 396,
+                "name": "Lungime (cm)"
+            },
+            {
+                "sortId": 42,
+                "id": 53,
+                "name": "Tip montare"
+            },
+            {
+                "sortId": 71,
+                "id": 82,
+                "name": "Putere termica nominala- ACM (kW)"
+            },
+            {
+                "sortId": 44,
+                "id": 55,
+                "name": "Accesorii"
+            },
+            {
+                "sortId": 45,
+                "id": 56,
+                "name": "Temperatura gaze de ardere  ( ̊C)"
+            },
+            {
+                "sortId": 46,
+                "id": 57,
+                "name": "Concentratie de CO in gazele de ardere"
+            },
+            {
+                "sortId": 58,
+                "id": 69,
+                "name": "Capacitate (l)"
+            },
+            {
+                "sortId": 48,
+                "id": 59,
+                "name": "Debit specific (l/m)"
+            },
+            {
+                "sortId": 55,
+                "id": 66,
+                "name": "Combustibil"
+            },
+            {
+                "sortId": 27,
+                "id": 395,
+                "name": "Greutate (Kg)"
+            },
+            {
+                "sortId": 54,
+                "id": 65,
+                "name": "Volum aer incalzit (m³)"
+            },
+            {
+                "sortId": 49,
+                "id": 60,
+                "name": "Eficienta energetica"
+            },
+            {
+                "sortId": 70,
+                "id": 81,
+                "name": "Clasa consum"
+            },
+            {
+                "sortId": 72,
+                "id": 83,
+                "name": "Debit de gaz metan necesar  (m³/h)"
+            },
+            {
+                "sortId": 72,
+                "id": 84,
+                "name": "Debit de gaz metan necesar  (m³/h)"
+            },
+            {
+                "sortId": 73,
+                "id": 85,
+                "name": "Presiune alimentare gaz metan necesara (mbar)"
+            },
+            {
+                "sortId": 74,
+                "id": 86,
+                "name": "Temperatura apa calda ( ̊C)"
+            },
+            {
+                "sortId": 53,
+                "id": 64,
+                "name": "Randament carbune brun"
+            },
+            {
+                "sortId": 37,
+                "id": 48,
+                "name": "Putere termica nominala (kW)"
+            },
+            {
+                "sortId": 34,
+                "id": 45,
+                "name": "Racord apa tur/retur"
+            },
+            {
+                "sortId": 33,
+                "id": 44,
+                "name": "Debit minim (l/min)"
+            },
+            {
+                "sortId": 32,
+                "id": 43,
+                "name": "Capacitate vas expansiune (l)"
+            },
+            {
+                "sortId": 31,
+                "id": 42,
+                "name": "Presiune incarcare vas de expansiune (bar)"
+            },
+            {
+                "sortId": 30,
+                "id": 41,
+                "name": "Presiune min/max pe circuitul de incalzire (bar)"
+            },
+            {
+                "sortId": 29,
+                "id": 40,
+                "name": "Temperatura min/max pe circuitul de incalzire ( ̊C)"
+            },
+            {
+                "sortId": 35,
+                "id": 46,
+                "name": "Nivel de zgomot (dB)"
+            },
+            {
+                "sortId": 28,
+                "id": 39,
+                "name": "Clasa de protectie electrica (IP)"
+            },
+            {
+                "sortId": 69,
+                "id": 80,
+                "name": "Presiune maxima serpentina/rezervor"
+            },
+            {
+                "sortId": 68,
+                "id": 79,
+                "name": "Debit maxim apa calda"
+            },
+            {
+                "sortId": 39,
+                "id": 50,
+                "name": "Volum de incalzit (m²)"
+            },
+            {
+                "sortId": 50,
+                "id": 61,
+                "name": "Suprafata vitrata"
+            },
+            {
+                "sortId": 51,
+                "id": 62,
+                "name": "Distanta de la ax cos de evacuare pana in spate semineu(mm)"
+            },
+            {
+                "sortId": 52,
+                "id": 63,
+                "name": "Randament lemn"
+            },
+            {
+                "sortId": 343,
+                "id": 382,
+                "name": "Dimensiune pixel (mm)"
+            },
+            {
+                "sortId": 334,
+                "id": 373,
+                "name": "Tehnologie display"
+            },
+            {
+                "sortId": 295,
+                "id": 325,
+                "name": "Continut solid"
+            },
+            {
+                "sortId": 333,
+                "id": 372,
+                "name": "Diagonala (inch)"
+            },
+            {
+                "sortId": 296,
+                "id": 326,
+                "name": "Densitate"
+            },
+            {
+                "sortId": 365,
+                "id": 421,
+                "name": "Denumire"
+            },
+            {
+                "sortId": 335,
+                "id": 374,
+                "name": "Rezolutie optima (px)"
+            },
+            {
+                "sortId": 338,
+                "id": 377,
+                "name": "Format ecran"
+            },
+            {
+                "sortId": 341,
+                "id": 380,
+                "name": "Unghi maxim de vizibilitate orizontala/verticala (grade)"
+            },
+            {
+                "sortId": 339,
+                "id": 378,
+                "name": "Luminozitate (cd/m^2)"
+            },
+            {
+                "sortId": 336,
+                "id": 375,
+                "name": "Tip iluminare fundal"
+            },
+            {
+                "sortId": 337,
+                "id": 376,
+                "name": "Aspect imagine"
+            },
+            {
+                "sortId": 340,
+                "id": 379,
+                "name": "Timp de raspuns (ms)"
+            },
+            {
+                "sortId": 342,
+                "id": 381,
+                "name": "Contrast dinamic"
+            },
+            {
+                "sortId": 344,
+                "id": 383,
+                "name": "Numar culori (milioane)"
+            },
+            {
+                "sortId": 354,
+                "id": 393,
+                "name": "Tip rezolutie"
+            },
+            {
+                "sortId": 355,
+                "id": 394,
+                "name": "Refresh rate (Hz)"
+            },
+            {
+                "sortId": 359,
+                "id": 331,
+                "name": "Aderenta finala"
+            },
+            {
+                "sortId": 366,
+                "id": 422,
+                "name": "Cod producator"
+            },
+            {
+                "sortId": 367,
+                "id": 423,
+                "name": "Garantie"
+            }
+        ]
+    },
+    {
+        "sort_order": 7,
+        "name": "Date tehnice",
+        "attribute_group_id": 16,
+        "attributes": [
+            {
+                "sortId": 128,
+                "id": 142,
+                "name": "Proiectie"
+            },
+            {
+                "sortId": 91,
+                "id": 104,
+                "name": "Turatie la mersul in gol"
+            },
+            {
+                "sortId": 76,
+                "id": 88,
+                "name": "Putere nominala (W)"
+            },
+            {
+                "sortId": 77,
+                "id": 89,
+                "name": "Energie de percutie"
+            },
+            {
+                "sortId": 78,
+                "id": 90,
+                "name": "Numar percutii la turatie nominala"
+            },
+            {
+                "sortId": 79,
+                "id": 91,
+                "name": "Turatie nominala"
+            },
+            {
+                "sortId": 80,
+                "id": 92,
+                "name": "Sistem de prindere"
+            },
+            {
+                "sortId": 12,
+                "id": 499,
+                "name": "Executie dinti"
+            },
+            {
+                "sortId": 84,
+                "id": 97,
+                "name": "Greutate (Kg)"
+            },
+            {
+                "sortId": 1,
+                "id": 493,
+                "name": "Specificatie"
+            },
+            {
+                "sortId": 93,
+                "id": 107,
+                "name": "Moment de rotatie nominala (Nm)"
+            },
+            {
+                "sortId": 303,
+                "id": 342,
+                "name": "Tip intrerupator"
+            },
+            {
+                "sortId": 156,
+                "id": 170,
+                "name": "Greutate (g)"
+            },
+            {
+                "sortId": 155,
+                "id": 169,
+                "name": "Interval de reglare temperatura (°C)"
+            },
+            {
+                "sortId": 154,
+                "id": 168,
+                "name": "Curent comutabil (A)"
+            },
+            {
+                "sortId": 146,
+                "id": 160,
+                "name": "Sensibilitati de comutare (°C)"
+            },
+            {
+                "sortId": 147,
+                "id": 161,
+                "name": "Temperatura de depozitare (°C)"
+            },
+            {
+                "sortId": 148,
+                "id": 162,
+                "name": "Frecventa de functionare (MHz)"
+            },
+            {
+                "sortId": 149,
+                "id": 163,
+                "name": "Tip senzor de temperatura"
+            },
+            {
+                "sortId": 150,
+                "id": 164,
+                "name": "Sectiune maxima conductor (mm²)"
+            },
+            {
+                "sortId": 151,
+                "id": 165,
+                "name": "Tip cronotermostat"
+            },
+            {
+                "sortId": 300,
+                "id": 339,
+                "name": "Configuratie"
+            },
+            {
+                "sortId": 299,
+                "id": 338,
+                "name": "Pornire lenta"
+            },
+            {
+                "sortId": 286,
+                "id": 316,
+                "name": "Temperatura maxima (°C)"
+            },
+            {
+                "sortId": 301,
+                "id": 340,
+                "name": "Dimensiune ax"
+            },
+            {
+                "sortId": 152,
+                "id": 166,
+                "name": "Model cronotermostat"
+            },
+            {
+                "sortId": 247,
+                "id": 289,
+                "name": "Trepte ajustare cuplu"
+            },
+            {
+                "sortId": 302,
+                "id": 341,
+                "name": "Blocare ax"
+            },
+            {
+                "sortId": 153,
+                "id": 167,
+                "name": "Tensiune comutabila"
+            },
+            {
+                "sortId": 164,
+                "id": 178,
+                "name": "Control internet"
+            },
+            {
+                "sortId": 165,
+                "id": 179,
+                "name": "Geolocatie"
+            },
+            {
+                "sortId": 285,
+                "id": 315,
+                "name": "Ambalare"
+            },
+            {
+                "sortId": 130,
+                "id": 500,
+                "name": "Domenii de utilizare"
+            },
+            {
+                "sortId": 122,
+                "id": 136,
+                "name": "Domeniu de lucru"
+            },
+            {
+                "sortId": 170,
+                "id": 502,
+                "name": "Tip"
+            },
+            {
+                "sortId": 168,
+                "id": 182,
+                "name": "Display"
+            },
+            {
+                "sortId": 167,
+                "id": 181,
+                "name": "Umiditate permisa (%)"
+            },
+            {
+                "sortId": 93,
+                "id": 106,
+                "name": "Moment de rotatie (Nm)"
+            },
+            {
+                "sortId": 113,
+                "id": 127,
+                "name": "Deconectare automata"
+            },
+            {
+                "sortId": 114,
+                "id": 128,
+                "name": "Unitati de masura"
+            },
+            {
+                "sortId": 115,
+                "id": 129,
+                "name": "Numar valori memorate"
+            },
+            {
+                "sortId": 116,
+                "id": 130,
+                "name": "Durata de viata baterii (masuratori)"
+            },
+            {
+                "sortId": 117,
+                "id": 131,
+                "name": "Protectie impotriva prafului si apa"
+            },
+            {
+                "sortId": 118,
+                "id": 132,
+                "name": "Protectie impotriva socurilor"
+            },
+            {
+                "sortId": 120,
+                "id": 134,
+                "name": "Temp. de functionare (°C)"
+            },
+            {
+                "sortId": 121,
+                "id": 135,
+                "name": "Temp. de depozitare (°C)"
+            },
+            {
+                "sortId": 92,
+                "id": 105,
+                "name": "Putere utila (W)"
+            },
+            {
+                "sortId": 123,
+                "id": 137,
+                "name": "Precizie de nivelare"
+            },
+            {
+                "sortId": 124,
+                "id": 138,
+                "name": "Domeniu de lucru cruci laser"
+            },
+            {
+                "sortId": 125,
+                "id": 139,
+                "name": "Domeniu de autonivelare"
+            },
+            {
+                "sortId": 126,
+                "id": 140,
+                "name": "Filet stativ"
+            },
+            {
+                "sortId": 127,
+                "id": 141,
+                "name": "Culoare linie laser"
+            },
+            {
+                "sortId": 166,
+                "id": 180,
+                "name": "Conexiune (Wi-Fi)"
+            },
+            {
+                "sortId": 129,
+                "id": 143,
+                "name": "Timpul de nivelare (s)"
+            },
+            {
+                "sortId": 104,
+                "id": 118,
+                "name": "Diam. disc abraziv (mm)"
+            },
+            {
+                "sortId": 112,
+                "id": 126,
+                "name": "Alimentare curent electric"
+            },
+            {
+                "sortId": 111,
+                "id": 125,
+                "name": "Timp de masurare maxim (s)"
+            },
+            {
+                "sortId": 145,
+                "id": 159,
+                "name": "Precizia de masurare temperatura (°C)"
+            },
+            {
+                "sortId": 94,
+                "id": 108,
+                "name": "Filet de racordare arbore portburghiu"
+            },
+            {
+                "sortId": 95,
+                "id": 109,
+                "name": "Domeniu de strangere, min/max"
+            },
+            {
+                "sortId": 96,
+                "id": 110,
+                "name": "Lungime (mm)"
+            },
+            {
+                "sortId": 98,
+                "id": 111,
+                "name": "Inaltime (mm)"
+            },
+            {
+                "sortId": 102,
+                "id": 112,
+                "name": "Nr percutii la turatie la mers in gol"
+            },
+            {
+                "sortId": 99,
+                "id": 113,
+                "name": "Arbore de slefuit"
+            },
+            {
+                "sortId": 100,
+                "id": 114,
+                "name": "Maner principal"
+            },
+            {
+                "sortId": 101,
+                "id": 115,
+                "name": "Diam. discuri (mm)"
+            },
+            {
+                "sortId": 97,
+                "id": 116,
+                "name": "Latime (mm)"
+            },
+            {
+                "sortId": 103,
+                "id": 117,
+                "name": "Comutator"
+            },
+            {
+                "sortId": 105,
+                "id": 119,
+                "name": "Diam. perie-oala (mm)"
+            },
+            {
+                "sortId": 106,
+                "id": 120,
+                "name": "Dioda laser"
+            },
+            {
+                "sortId": 107,
+                "id": 121,
+                "name": "Domeniu masurare"
+            },
+            {
+                "sortId": 108,
+                "id": 122,
+                "name": "Clasa laser"
+            },
+            {
+                "sortId": 109,
+                "id": 123,
+                "name": "Precizie de masurare, normal (mm)"
+            },
+            {
+                "sortId": 110,
+                "id": 124,
+                "name": "Timp de masurare (s)"
+            },
+            {
+                "sortId": 144,
+                "id": 158,
+                "name": "Interval de masurare temperatura (°C)"
+            },
+            {
+                "sortId": 304,
+                "id": 343,
+                "name": "Intrerupator &quot;Lock On&quot;"
+            },
+            {
+                "sortId": 305,
+                "id": 344,
+                "name": "Lungime cablu"
+            },
+            {
+                "sortId": 326,
+                "id": 365,
+                "name": "Taiere inclinata"
+            },
+            {
+                "sortId": 306,
+                "id": 345,
+                "name": "Maner lateral"
+            },
+            {
+                "sortId": 327,
+                "id": 366,
+                "name": "Adancime de taiere - lemn"
+            },
+            {
+                "sortId": 312,
+                "id": 351,
+                "name": "Capacitate maxima - lemn"
+            },
+            {
+                "sortId": 307,
+                "id": 346,
+                "name": "Intensitate sonora"
+            },
+            {
+                "sortId": 308,
+                "id": 347,
+                "name": "Intensitate acustica"
+            },
+            {
+                "sortId": 309,
+                "id": 348,
+                "name": "Vibratii"
+            },
+            {
+                "sortId": 310,
+                "id": 349,
+                "name": "Maner cauciucat"
+            },
+            {
+                "sortId": 311,
+                "id": 350,
+                "name": "Percutie"
+            },
+            {
+                "sortId": 332,
+                "id": 371,
+                "name": "Lame"
+            },
+            {
+                "sortId": 315,
+                "id": 354,
+                "name": "Reversibil"
+            },
+            {
+                "sortId": 314,
+                "id": 353,
+                "name": "Capacitate maxima - beton"
+            },
+            {
+                "sortId": 313,
+                "id": 352,
+                "name": "Capacitate maxima - otel"
+            },
+            {
+                "sortId": 319,
+                "id": 358,
+                "name": "Intrerupator &quot;Pornit&quot;"
+            },
+            {
+                "sortId": 321,
+                "id": 360,
+                "name": "Putere termica 55°/45°C (W)"
+            },
+            {
+                "sortId": 316,
+                "id": 355,
+                "name": "Turatie"
+            },
+            {
+                "sortId": 318,
+                "id": 357,
+                "name": "Maner secundar reglabil"
+            },
+            {
+                "sortId": 320,
+                "id": 359,
+                "name": "Valiza de depozitare si transport"
+            },
+            {
+                "sortId": 317,
+                "id": 356,
+                "name": "Limitator adancime ajustabil"
+            },
+            {
+                "sortId": 322,
+                "id": 361,
+                "name": "Putere termica 75°/65°C (W)"
+            },
+            {
+                "sortId": 323,
+                "id": 362,
+                "name": "Putere termica 90°/70°C (W)"
+            },
+            {
+                "sortId": 324,
+                "id": 363,
+                "name": "Curse"
+            },
+            {
+                "sortId": 325,
+                "id": 364,
+                "name": "Buton de blocare intrerupator"
+            },
+            {
+                "sortId": 328,
+                "id": 367,
+                "name": "Adancime de taiere - otel"
+            },
+            {
+                "sortId": 329,
+                "id": 368,
+                "name": "Adancime de taiere - Aluminiu"
+            },
+            {
+                "sortId": 330,
+                "id": 369,
+                "name": "Lungime cursa"
+            },
+            {
+                "sortId": 331,
+                "id": 370,
+                "name": "Suflanta de praf"
+            }
+        ]
+    },
+    {
+        "sort_order": 7,
+        "name": "Dimensiunile ambalajului",
+        "attribute_group_id": 37,
+        "attributes": [
+            {
+                "sortId": 35,
+                "id": 403,
+                "name": "Lungimea cutiei de ambalare (cm)"
+            },
+            {
+                "sortId": 36,
+                "id": 404,
+                "name": "Inaltimea cutiei de ambalare (cm)"
+            },
+            {
+                "sortId": 37,
+                "id": 405,
+                "name": "Latimea cutiei de ambalare  (cm)"
+            },
+            {
+                "sortId": 38,
+                "id": 406,
+                "name": "Masa bruta (kg)"
+            }
+        ]
+    },
+    {
+        "sort_order": 8,
+        "name": "Domeniu de gaurire",
+        "attribute_group_id": 17,
+        "attributes": [
+            {
+                "sortId": 81,
+                "id": 93,
+                "name": "Diametru de gaurire, burghie pentru ciocan rotopercutor"
+            },
+            {
+                "sortId": 81,
+                "id": 94,
+                "name": "Aplicare optionala domeniu beton"
+            },
+            {
+                "sortId": 82,
+                "id": 95,
+                "name": "Diametru de gaurire beton, burghie de strapungere"
+            },
+            {
+                "sortId": 83,
+                "id": 96,
+                "name": "Diam. de gaurire in beton cu burghie carotă "
+            },
+            {
+                "sortId": 85,
+                "id": 98,
+                "name": "Diam. maxim de gaurire lemn"
+            },
+            {
+                "sortId": 86,
+                "id": 99,
+                "name": "Diam. maxim de gaurire otel"
+            },
+            {
+                "sortId": 87,
+                "id": 100,
+                "name": "Diam. de gaurire in beton"
+            },
+            {
+                "sortId": 88,
+                "id": 101,
+                "name": "Diam. de gaurire in lemn"
+            },
+            {
+                "sortId": 89,
+                "id": 102,
+                "name": "Diam. de gaurire in otel"
+            },
+            {
+                "sortId": 90,
+                "id": 103,
+                "name": "Diam. de gaurire in caramida"
+            }
+        ]
+    },
+    {
+        "sort_order": 9,
+        "name": "Dimensiuni",
+        "attribute_group_id": 18,
+        "attributes": [
+            {
+                "sortId": 173,
+                "id": 187,
+                "name": "Lungime (mm)"
+            },
+            {
+                "sortId": 182,
+                "id": 196,
+                "name": "Greutate(g)"
+            },
+            {
+                "sortId": 1,
+                "id": 491,
+                "name": "Diametru (D) (mm)"
+            },
+            {
+                "sortId": 3,
+                "id": 490,
+                "name": "Diametrul gaurii (d) (mm)"
+            },
+            {
+                "sortId": 3,
+                "id": 489,
+                "name": "Diametrul gaurii (mm)"
+            },
+            {
+                "sortId": 181,
+                "id": 195,
+                "name": "Dimensiuni"
+            },
+            {
+                "sortId": 175,
+                "id": 189,
+                "name": "Greutate (Kg)"
+            },
+            {
+                "sortId": 174,
+                "id": 188,
+                "name": "Diametru gaurire (mm)"
+            },
+            {
+                "sortId": 2,
+                "id": 492,
+                "name": "Grosime (b) (mm)"
+            },
+            {
+                "sortId": 161,
+                "id": 175,
+                "name": "Lungime totala (mm)"
+            },
+            {
+                "sortId": 162,
+                "id": 176,
+                "name": "Lungime de lucru (mm)"
+            },
+            {
+                "sortId": 163,
+                "id": 177,
+                "name": "Diametru (mm)"
+            },
+            {
+                "sortId": 175,
+                "id": 497,
+                "name": "Latime taiere (mm)"
+            },
+            {
+                "sortId": 171,
+                "id": 185,
+                "name": "Diametru interior (mm)"
+            },
+            {
+                "sortId": 172,
+                "id": 186,
+                "name": "Grosime (mm)"
+            },
+            {
+                "sortId": 163,
+                "id": 501,
+                "name": "Pasul danturii (mm)"
+            },
+            {
+                "sortId": 252,
+                "id": 296,
+                "name": "Taisul  Daltii (mm)"
+            }
+        ]
+    },
+    {
+        "sort_order": 10,
+        "name": "General",
+        "attribute_group_id": 19,
+        "attributes": [
+            {
+                "sortId": 1,
+                "id": 488,
+                "name": "Categorie promotie"
+            },
+            {
+                "sortId": 176,
+                "id": 190,
+                "name": "Lansare"
+            },
+            {
+                "sortId": 177,
+                "id": 191,
+                "name": "Limba"
+            },
+            {
+                "sortId": 178,
+                "id": 192,
+                "name": "Retea"
+            },
+            {
+                "sortId": 179,
+                "id": 193,
+                "name": "Sloturi SIM"
+            },
+            {
+                "sortId": 180,
+                "id": 194,
+                "name": "Tip SIM"
+            },
+            {
+                "sortId": 242,
+                "id": 257,
+                "name": "Microsim"
+            },
+            {
+                "sortId": 246,
+                "id": 261,
+                "name": "Mini sim"
+            },
+            {
+                "sortId": 252,
+                "id": 294,
+                "name": "Tip telefon"
+            },
+            {
+                "sortId": 253,
+                "id": 268,
+                "name": "Single SIM"
+            }
+        ]
+    },
+    {
+        "sort_order": 11,
+        "name": "Dimensiuni",
+        "attribute_group_id": 20,
+        "attributes": []
+    },
+    {
+        "sort_order": 12,
+        "name": "Display",
+        "attribute_group_id": 21,
+        "attributes": [
+            {
+                "sortId": 183,
+                "id": 197,
+                "name": "Tip display"
+            },
+            {
+                "sortId": 184,
+                "id": 198,
+                "name": "Touchscreen"
+            },
+            {
+                "sortId": 185,
+                "id": 199,
+                "name": "Diagonala display"
+            },
+            {
+                "sortId": 186,
+                "id": 200,
+                "name": "Rezolutie "
+            },
+            {
+                "sortId": 187,
+                "id": 201,
+                "name": "Protectie ecran"
+            },
+            {
+                "sortId": 369,
+                "id": 425,
+                "name": "Widescreen"
+            },
+            {
+                "sortId": 370,
+                "id": 426,
+                "name": "Format"
+            },
+            {
+                "sortId": 371,
+                "id": 427,
+                "name": "Ecran"
+            },
+            {
+                "sortId": 372,
+                "id": 428,
+                "name": "Rezolutie webcam"
+            },
+            {
+                "sortId": 373,
+                "id": 429,
+                "name": "All-in-One"
+            }
+        ]
+    },
+    {
+        "sort_order": 13,
+        "name": "Caracteristici",
+        "attribute_group_id": 22,
+        "attributes": [
+            {
+                "sortId": 190,
+                "id": 204,
+                "name": "GPU"
+            },
+            {
+                "sortId": 200,
+                "id": 215,
+                "name": "HD Voice"
+            },
+            {
+                "sortId": 198,
+                "id": 213,
+                "name": "Turn to Mute"
+            },
+            {
+                "sortId": 195,
+                "id": 209,
+                "name": "Memorie RAM"
+            },
+            {
+                "sortId": 196,
+                "id": 210,
+                "name": "Widget"
+            },
+            {
+                "sortId": 197,
+                "id": 211,
+                "name": "Multitasking"
+            },
+            {
+                "sortId": 4,
+                "id": 212,
+                "name": "Turn to Mute"
+            },
+            {
+                "sortId": 194,
+                "id": 208,
+                "name": "Memorie interna"
+            },
+            {
+                "sortId": 190,
+                "id": 295,
+                "name": "Frecventa procesor"
+            },
+            {
+                "sortId": 188,
+                "id": 202,
+                "name": "Sistem de operare"
+            },
+            {
+                "sortId": 193,
+                "id": 207,
+                "name": "Glonass"
+            },
+            {
+                "sortId": 192,
+                "id": 206,
+                "name": "AGPS"
+            },
+            {
+                "sortId": 189,
+                "id": 203,
+                "name": "Model procesor"
+            },
+            {
+                "sortId": 199,
+                "id": 214,
+                "name": "Radio FM"
+            },
+            {
+                "sortId": 191,
+                "id": 205,
+                "name": "GPS"
+            },
+            {
+                "sortId": 251,
+                "id": 266,
+                "name": "Functie SOS"
+            },
+            {
+                "sortId": 256,
+                "id": 271,
+                "name": "Java"
+            },
+            {
+                "sortId": 201,
+                "id": 216,
+                "name": "Micro SD"
+            },
+            {
+                "sortId": 254,
+                "id": 269,
+                "name": "Protectie"
+            },
+            {
+                "sortId": 202,
+                "id": 217,
+                "name": "Vibratie cand apelatul raspunde"
+            },
+            {
+                "sortId": 203,
+                "id": 218,
+                "name": "Culori"
+            },
+            {
+                "sortId": 247,
+                "id": 262,
+                "name": "Lanterna"
+            },
+            {
+                "sortId": 261,
+                "id": 276,
+                "name": "Culoare"
+            },
+            {
+                "sortId": 262,
+                "id": 277,
+                "name": "Functie maini-libere"
+            },
+            {
+                "sortId": 263,
+                "id": 278,
+                "name": "Certificat"
+            },
+            {
+                "sortId": 279,
+                "id": 309,
+                "name": "Immersion Haptic Technology"
+            },
+            {
+                "sortId": 349,
+                "id": 388,
+                "name": "Gama"
+            },
+            {
+                "sortId": 350,
+                "id": 389,
+                "name": "Putere consumata (W)"
+            },
+            {
+                "sortId": 351,
+                "id": 390,
+                "name": "Standarde"
+            },
+            {
+                "sortId": 352,
+                "id": 391,
+                "name": "Greutate (Kg)"
+            }
+        ]
+    },
+    {
+        "sort_order": 14,
+        "name": "Sunet si video",
+        "attribute_group_id": 23,
+        "attributes": [
+            {
+                "sortId": 204,
+                "id": 219,
+                "name": "3.5mm jack"
+            },
+            {
+                "sortId": 205,
+                "id": 220,
+                "name": "TRRS standard"
+            },
+            {
+                "sortId": 206,
+                "id": 221,
+                "name": "Impedanta recomandata casti"
+            },
+            {
+                "sortId": 207,
+                "id": 222,
+                "name": "Difuzor"
+            },
+            {
+                "sortId": 208,
+                "id": 223,
+                "name": "Redare fisiere audio"
+            },
+            {
+                "sortId": 209,
+                "id": 224,
+                "name": "Tip alerta"
+            },
+            {
+                "sortId": 257,
+                "id": 272,
+                "name": "Inregistrare audio"
+            },
+            {
+                "sortId": 258,
+                "id": 273,
+                "name": "Redare fisiere video"
+            },
+            {
+                "sortId": 282,
+                "id": 312,
+                "name": "Maxx Audio"
+            }
+        ]
+    },
+    {
+        "sort_order": 15,
+        "name": "Video",
+        "attribute_group_id": 24,
+        "attributes": [
+            {
+                "sortId": 210,
+                "id": 225,
+                "name": "Redare"
+            },
+            {
+                "sortId": 211,
+                "id": 226,
+                "name": "Redare flux"
+            }
+        ]
+    },
+    {
+        "sort_order": 16,
+        "name": "Aplicatii",
+        "attribute_group_id": 25,
+        "attributes": [
+            {
+                "sortId": 212,
+                "id": 227,
+                "name": "Aplicatii"
+            },
+            {
+                "sortId": 248,
+                "id": 263,
+                "name": "Calendar"
+            },
+            {
+                "sortId": 249,
+                "id": 264,
+                "name": "Alarma"
+            },
+            {
+                "sortId": 250,
+                "id": 265,
+                "name": "Calculator"
+            }
+        ]
+    },
+    {
+        "sort_order": 17,
+        "name": "Camera",
+        "attribute_group_id": 26,
+        "attributes": [
+            {
+                "sortId": 277,
+                "id": 307,
+                "name": "Mod profesionist"
+            },
+            {
+                "sortId": 218,
+                "id": 234,
+                "name": "Face beauty"
+            },
+            {
+                "sortId": 217,
+                "id": 232,
+                "name": "High Dynamic Range(HDR)"
+            },
+            {
+                "sortId": 216,
+                "id": 231,
+                "name": "Touchfocus"
+            },
+            {
+                "sortId": 215,
+                "id": 230,
+                "name": "Inregistrare video"
+            },
+            {
+                "sortId": 214,
+                "id": 229,
+                "name": "Rezolutie camera frontala"
+            },
+            {
+                "sortId": 213,
+                "id": 228,
+                "name": "Rezolutie camera principala"
+            },
+            {
+                "sortId": 244,
+                "id": 259,
+                "name": "Voice capture"
+            },
+            {
+                "sortId": 220,
+                "id": 235,
+                "name": "Geotagging"
+            },
+            {
+                "sortId": 219,
+                "id": 233,
+                "name": "Led flash"
+            },
+            {
+                "sortId": 245,
+                "id": 260,
+                "name": "Smile shot"
+            },
+            {
+                "sortId": 278,
+                "id": 308,
+                "name": "Super foto"
+            },
+            {
+                "sortId": 273,
+                "id": 301,
+                "name": "PDAF"
+            },
+            {
+                "sortId": 271,
+                "id": 299,
+                "name": "Card scaner"
+            },
+            {
+                "sortId": 243,
+                "id": 258,
+                "name": "Face detection"
+            },
+            {
+                "sortId": 259,
+                "id": 274,
+                "name": "HSPA"
+            },
+            {
+                "sortId": 264,
+                "id": 279,
+                "name": "Motion Track Mode"
+            },
+            {
+                "sortId": 265,
+                "id": 280,
+                "name": "Live photo mode"
+            },
+            {
+                "sortId": 266,
+                "id": 281,
+                "name": "Gesture shot"
+            },
+            {
+                "sortId": 276,
+                "id": 306,
+                "name": "Pic note"
+            },
+            {
+                "sortId": 280,
+                "id": 310,
+                "name": "Super Zoom"
+            },
+            {
+                "sortId": 283,
+                "id": 313,
+                "name": "Bokeh mode"
+            },
+            {
+                "sortId": 284,
+                "id": 314,
+                "name": "PIP"
+            }
+        ]
+    },
+    {
+        "sort_order": 18,
+        "name": "Date",
+        "attribute_group_id": 27,
+        "attributes": [
+            {
+                "sortId": 224,
+                "id": 239,
+                "name": "GPRS"
+            },
+            {
+                "sortId": 222,
+                "id": 237,
+                "name": "3G "
+            },
+            {
+                "sortId": 221,
+                "id": 236,
+                "name": "4G "
+            },
+            {
+                "sortId": 223,
+                "id": 238,
+                "name": "EDGE"
+            },
+            {
+                "sortId": 225,
+                "id": 240,
+                "name": "Bluetooth"
+            },
+            {
+                "sortId": 226,
+                "id": 241,
+                "name": "WLAN"
+            },
+            {
+                "sortId": 227,
+                "id": 242,
+                "name": "WiFi Direct"
+            },
+            {
+                "sortId": 228,
+                "id": 243,
+                "name": "USB"
+            },
+            {
+                "sortId": 252,
+                "id": 267,
+                "name": "WAP 2.0"
+            },
+            {
+                "sortId": 267,
+                "id": 282,
+                "name": "WiFi Display"
+            },
+            {
+                "sortId": 268,
+                "id": 283,
+                "name": "Hot Knot"
+            }
+        ]
+    },
+    {
+        "sort_order": 18,
+        "name": "Domenii de utilizare",
+        "attribute_group_id": 51,
+        "attributes": [
+            {
+                "sortId": 1,
+                "id": 498,
+                "name": "Lemn de esenta moale, placi (mm)"
+            },
+            {
+                "sortId": 175,
+                "id": 503,
+                "name": "placi melaminate (mm)"
+            },
+            {
+                "sortId": 189,
+                "id": 504,
+                "name": "Placaj (mm)"
+            },
+            {
+                "sortId": 198,
+                "id": 505,
+                "name": "Tabla (mm)"
+            }
+        ]
+    },
+    {
+        "sort_order": 19,
+        "name": "Senzori",
+        "attribute_group_id": 28,
+        "attributes": [
+            {
+                "sortId": 229,
+                "id": 244,
+                "name": "Accelerometru"
+            },
+            {
+                "sortId": 230,
+                "id": 245,
+                "name": "Senzor de proximitate"
+            },
+            {
+                "sortId": 231,
+                "id": 246,
+                "name": "Senzor de lumina"
+            },
+            {
+                "sortId": 232,
+                "id": 247,
+                "name": "Senzor de amprenta"
+            },
+            {
+                "sortId": 255,
+                "id": 270,
+                "name": "Senzor magnetic"
+            },
+            {
+                "sortId": 272,
+                "id": 300,
+                "name": "Senzor IR"
+            },
+            {
+                "sortId": 281,
+                "id": 311,
+                "name": "Senzor giroscop"
+            }
+        ]
+    },
+    {
+        "sort_order": 20,
+        "name": "Internet",
+        "attribute_group_id": 29,
+        "attributes": [
+            {
+                "sortId": 233,
+                "id": 248,
+                "name": "Social networking"
+            },
+            {
+                "sortId": 234,
+                "id": 249,
+                "name": "E-mail"
+            },
+            {
+                "sortId": 235,
+                "id": 250,
+                "name": "Aplicatii"
+            },
+            {
+                "sortId": 236,
+                "id": 251,
+                "name": "Hotspot"
+            }
+        ]
+    },
+    {
+        "sort_order": 21,
+        "name": "Baterie",
+        "attribute_group_id": 30,
+        "attributes": [
+            {
+                "sortId": 237,
+                "id": 252,
+                "name": "Capacitate"
+            },
+            {
+                "sortId": 238,
+                "id": 253,
+                "name": "Tip incarcator"
+            },
+            {
+                "sortId": 239,
+                "id": 254,
+                "name": "Stand by"
+            },
+            {
+                "sortId": 240,
+                "id": 255,
+                "name": "Convorbire"
+            },
+            {
+                "sortId": 260,
+                "id": 275,
+                "name": "Timp convorbire"
+            },
+            {
+                "sortId": 269,
+                "id": 297,
+                "name": "Timp utilizare"
+            },
+            {
+                "sortId": 270,
+                "id": 298,
+                "name": "Timp stand-by"
+            }
+        ]
+    },
+    {
+        "sort_order": 22,
+        "name": "Continut pachet",
+        "attribute_group_id": 31,
+        "attributes": [
+            {
+                "sortId": 241,
+                "id": 256,
+                "name": "Continut"
+            }
+        ]
+    },
+    {
+        "sort_order": 23,
+        "name": "Acumulator",
+        "attribute_group_id": 32,
+        "attributes": [
+            {
+                "sortId": 243,
+                "id": 285,
+                "name": "Tip acumulator"
+            },
+            {
+                "sortId": 244,
+                "id": 286,
+                "name": "Capacitate acumulator"
+            },
+            {
+                "sortId": 245,
+                "id": 287,
+                "name": "Durata de incarcare"
+            },
+            {
+                "sortId": 246,
+                "id": 288,
+                "name": "Numar acumulatori inclusi"
+            }
+        ]
+    },
+    {
+        "sort_order": 24,
+        "name": "Facilitati",
+        "attribute_group_id": 34,
+        "attributes": [
+            {
+                "sortId": 345,
+                "id": 384,
+                "name": "Functii speciale"
+            },
+            {
+                "sortId": 346,
+                "id": 385,
+                "name": "Montare pe perete (mm)"
+            },
+            {
+                "sortId": 347,
+                "id": 386,
+                "name": "Continut pachet"
+            }
+        ]
+    },
+    {
+        "sort_order": 26,
+        "name": "Ergonomie",
+        "attribute_group_id": 36,
+        "attributes": [
+            {
+                "sortId": 353,
+                "id": 392,
+                "name": "Inclinare (grade)"
+            }
+        ]
+    },
+    {
+        "sort_order": 27,
+        "name": "Procesor",
+        "attribute_group_id": 38,
+        "attributes": [
+            {
+                "sortId": 374,
+                "id": 430,
+                "name": "Producator"
+            },
+            {
+                "sortId": 385,
+                "id": 441,
+                "name": "Max TDP (W)"
+            },
+            {
+                "sortId": 379,
+                "id": 435,
+                "name": "Numar nuclee"
+            },
+            {
+                "sortId": 378,
+                "id": 434,
+                "name": "Model"
+            },
+            {
+                "sortId": 377,
+                "id": 433,
+                "name": "Familia"
+            },
+            {
+                "sortId": 376,
+                "id": 432,
+                "name": "Nucleu"
+            },
+            {
+                "sortId": 375,
+                "id": 431,
+                "name": "Socket"
+            },
+            {
+                "sortId": 381,
+                "id": 437,
+                "name": "Frecventa (GHz)"
+            },
+            {
+                "sortId": 382,
+                "id": 438,
+                "name": "Frecventa Turbo max. (GHz)"
+            },
+            {
+                "sortId": 380,
+                "id": 436,
+                "name": "Numar thread-uri"
+            },
+            {
+                "sortId": 384,
+                "id": 440,
+                "name": "Tehnologie de fabricatie (nm)"
+            },
+            {
+                "sortId": 383,
+                "id": 439,
+                "name": "Intel Smart Cache (MB)"
+            },
+            {
+                "sortId": 386,
+                "id": 442,
+                "name": "Procesor grafic integrat"
+            },
+            {
+                "sortId": 414,
+                "id": 470,
+                "name": "Level 2 cache (MB)"
+            }
+        ]
+    },
+    {
+        "sort_order": 28,
+        "name": "Model",
+        "attribute_group_id": 39,
+        "attributes": [
+            {
+                "sortId": 368,
+                "id": 424,
+                "name": "Platforma"
+            },
+            {
+                "sortId": 413,
+                "id": 469,
+                "name": "Recomandat pentru"
+            }
+        ]
+    },
+    {
+        "sort_order": 29,
+        "name": "Memorie RAM",
+        "attribute_group_id": 40,
+        "attributes": [
+            {
+                "sortId": 387,
+                "id": 443,
+                "name": "Capacitate RAM (GB)"
+            },
+            {
+                "sortId": 388,
+                "id": 444,
+                "name": "Tip RAM"
+            },
+            {
+                "sortId": 389,
+                "id": 445,
+                "name": "Frecventa (MHz)"
+            },
+            {
+                "sortId": 390,
+                "id": 446,
+                "name": "Sloturi memorie"
+            },
+            {
+                "sortId": 415,
+                "id": 471,
+                "name": "Slot 1 (MB)"
+            },
+            {
+                "sortId": 416,
+                "id": 472,
+                "name": "Memorie maxima (GB)"
+            }
+        ]
+    },
+    {
+        "sort_order": 30,
+        "name": "Software",
+        "attribute_group_id": 41,
+        "attributes": [
+            {
+                "sortId": 411,
+                "id": 467,
+                "name": "Sistem de operare"
+            }
+        ]
+    },
+    {
+        "sort_order": 31,
+        "name": "Carcasa si Sursa",
+        "attribute_group_id": 42,
+        "attributes": [
+            {
+                "sortId": 399,
+                "id": 455,
+                "name": "Dimensiune (cm)"
+            },
+            {
+                "sortId": 400,
+                "id": 456,
+                "name": "Greutate (kg)"
+            },
+            {
+                "sortId": 401,
+                "id": 457,
+                "name": "Putere sursa (W)"
+            },
+            {
+                "sortId": 423,
+                "id": 479,
+                "name": "Tip carcasa"
+            },
+            {
+                "sortId": 424,
+                "id": 480,
+                "name": "Sloturi expansiune"
+            },
+            {
+                "sortId": 425,
+                "id": 481,
+                "name": "Suport unitati optice"
+            },
+            {
+                "sortId": 426,
+                "id": 482,
+                "name": "Suport unitati de stocare HDD"
+            }
+        ]
+    },
+    {
+        "sort_order": 32,
+        "name": "Placa video",
+        "attribute_group_id": 43,
+        "attributes": [
+            {
+                "sortId": 393,
+                "id": 449,
+                "name": "Tip placa"
+            },
+            {
+                "sortId": 394,
+                "id": 450,
+                "name": "Producator"
+            },
+            {
+                "sortId": 395,
+                "id": 451,
+                "name": "Familie"
+            },
+            {
+                "sortId": 397,
+                "id": 452,
+                "name": "Model"
+            },
+            {
+                "sortId": 430,
+                "id": 487,
+                "name": "Interfata"
+            }
+        ]
+    },
+    {
+        "sort_order": 33,
+        "name": "Stocare",
+        "attribute_group_id": 44,
+        "attributes": [
+            {
+                "sortId": 391,
+                "id": 447,
+                "name": "Capacitate (GB)"
+            },
+            {
+                "sortId": 392,
+                "id": 448,
+                "name": "Interfata"
+            },
+            {
+                "sortId": 417,
+                "id": 473,
+                "name": "Viteza de rotatie (rpm)"
+            },
+            {
+                "sortId": 418,
+                "id": 474,
+                "name": "Tip stocare (inch)"
+            }
+        ]
+    },
+    {
+        "sort_order": 34,
+        "name": "Placa de baza",
+        "attribute_group_id": 45,
+        "attributes": [
+            {
+                "sortId": 398,
+                "id": 454,
+                "name": "Chipset"
+            },
+            {
+                "sortId": 419,
+                "id": 475,
+                "name": "Slot PCI Express x16"
+            },
+            {
+                "sortId": 420,
+                "id": 476,
+                "name": "Slot mini PCI Express"
+            },
+            {
+                "sortId": 429,
+                "id": 485,
+                "name": "USB 3.1 Gen 1"
+            }
+        ]
+    },
+    {
+        "sort_order": 35,
+        "name": "Unitate optica",
+        "attribute_group_id": 46,
+        "attributes": [
+            {
+                "sortId": 396,
+                "id": 453,
+                "name": "Tip unitate optica"
+            }
+        ]
+    },
+    {
+        "sort_order": 36,
+        "name": "Audio",
+        "attribute_group_id": 49,
+        "attributes": [
+            {
+                "sortId": 421,
+                "id": 477,
+                "name": "Sunet"
+            },
+            {
+                "sortId": 422,
+                "id": 478,
+                "name": "Suport audio"
+            }
+        ]
+    },
+    {
+        "sort_order": 37,
+        "name": "Porturi",
+        "attribute_group_id": 47,
+        "attributes": [
+            {
+                "sortId": 402,
+                "id": 458,
+                "name": "VGA"
+            },
+            {
+                "sortId": 403,
+                "id": 459,
+                "name": "Display Port"
+            },
+            {
+                "sortId": 404,
+                "id": 460,
+                "name": "RJ-45 LAN"
+            },
+            {
+                "sortId": 405,
+                "id": 461,
+                "name": "USB 2.0"
+            },
+            {
+                "sortId": 406,
+                "id": 462,
+                "name": "USB 3.0"
+            },
+            {
+                "sortId": 407,
+                "id": 463,
+                "name": "Jack casti"
+            },
+            {
+                "sortId": 408,
+                "id": 464,
+                "name": "Jack microfon"
+            },
+            {
+                "sortId": 427,
+                "id": 483,
+                "name": "HDMI"
+            },
+            {
+                "sortId": 428,
+                "id": 484,
+                "name": "Audio"
+            }
+        ]
+    },
+    {
+        "sort_order": 38,
+        "name": "Conectivitate",
+        "attribute_group_id": 35,
+        "attributes": [
+            {
+                "sortId": 348,
+                "id": 387,
+                "name": "Porturi video"
+            },
+            {
+                "sortId": 409,
+                "id": 465,
+                "name": "LAN (Mbps)"
+            },
+            {
+                "sortId": 410,
+                "id": 466,
+                "name": "Wireless"
+            }
+        ]
+    },
+    {
+        "sort_order": 39,
+        "name": "Diverse",
+        "attribute_group_id": 48,
+        "attributes": [
+            {
+                "sortId": 412,
+                "id": 468,
+                "name": "Periferice"
+            }
+        ]
+    },
+    {
+        "sort_order": 100,
+        "name": "Adecvat pentru",
+        "attribute_group_id": 50,
+        "attributes": [
+            {
+                "sortId": 1,
+                "id": 494,
+                "name": "Materiale prelucrabile"
+            }
+        ]
+    }
+]

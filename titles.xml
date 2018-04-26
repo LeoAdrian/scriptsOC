@@ -1,0 +1,3082 @@
+<products>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Centrala termica cu condensare Buderus Logamax GB012 25 KW V2 ERP</name>
+		<price>3000.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>8731602024</product_id>
+		<identifier>54</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Centrala murala cu condensare Buderus Logamax plus GB072 V2 24 KW</name>
+		<price>4755.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>7736900556</product_id>
+		<identifier>56</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>CALMATPLUS</name>
+		<price>4301.85</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Buderus CALMATPLUS</product_id>
+		<identifier>123</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Boiler Buderus Logalux SU-160 L</name>
+		<price>4228.07</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>albastru 8718543059 / alb 8718543060</product_id>
+		<identifier>204</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Boiler Buderus Logalux SU-200 L</name>
+		<price>4519.62</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>albastru 8718543068 / alb 8718543069</product_id>
+		<identifier>207</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Boiler Buderus Logalux SU-300 L</name>
+		<price>6004.74</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>albastru 8718541328 / alb 8718541330</product_id>
+		<identifier>208</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Boiler solar bivalent Buderus Logalux SM-300 L</name>
+		<price>7289.94</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>albastru 8718541307 / alb 8718541308</product_id>
+		<identifier>209</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Vas Tampon Buderus Logalux PR-1000 L</name>
+		<price>6892.48</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Rezervor acumulare Buderus Logalux PR 1000 de litri</product_id>
+		<identifier>212</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Boiler solar bivalent Buderus Logalux SM-400 L</name>
+		<price>10367.28</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>albastru 8718541316 / alb 8718541909</product_id>
+		<identifier>213</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Boiler Logalux SM 400</name>
+		<price>11435.90</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Boiler Buderus Logalux SM  400 litri</product_id>
+		<identifier>214</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Boiler solar bivalent Buderus Logalux SM-500 L</name>
+		<price>9459.31</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>albastru 30005258 / alb 7735500001</product_id>
+		<identifier>217</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Rezervor de acumulare Buderus Logalux SF-500 L</name>
+		<price>9612.82</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Rezervor de acumulare Buderus Logalux SF 500 litri</product_id>
+		<identifier>218</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Rezervor de acumulare Buderus Logalux SF-750 L</name>
+		<price>12589.01</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Rezervor de acumulare Buderus Logalux SF 750 litri</product_id>
+		<identifier>224</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Centrala termica murala cu condensare Logamax plus GB172iKH-30 KW</name>
+		<price>7543.41</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica cu condensare Logamax plus GB172iKH 30kw</product_id>
+		<identifier>235</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Centrala termica murala cu condensare Logamax plus GB172IKH-35 KW</name>
+		<price>9271.29</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>7736900829</product_id>
+		<identifier>236</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Centrala termica murala in condensare Logamax plus GB172iKW-H-35 KW</name>
+		<price>9161.81</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica Logamax plus GB172iKW H 35Kw</product_id>
+		<identifier>238</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Motan</manufacturer>
+		<name>Centrala termica murala conventionala cu tiraj fortat Motan Sigma ERP 24KW</name>
+		<price>1950.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>C32SPV24MEFB-S-ERP</product_id>
+		<identifier>241</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Centrala murala cu condensare Buderus Logamax plus GB062-24 KD H V2</name>
+		<price>3500.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>7736900768</product_id>
+		<identifier>253</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Centrala termica murala cu condensare Buderus Logamax plus GB072K-24 KW</name>
+		<price>6307.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Buderus Logamax plus GB072K</product_id>
+		<identifier>260</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Boiler electric Bosch Tronic 1000 T, 80 litri</name>
+		<price>639.03</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Bosch Tronic 1000 T, 80 litri</product_id>
+		<identifier>267</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Protherm</manufacturer>
+		<name>Centrala termica murala electrica Protherm Ray 6-KW</name>
+		<price>2499.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>6KRO11</product_id>
+		<identifier>273</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Protherm</manufacturer>
+		<name>Centrala termica murala electrica Protherm Ray 9-KW</name>
+		<price>2618.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>9KRO11</product_id>
+		<identifier>274</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Protherm</manufacturer>
+		<name>Centrala termica murala electrica Protherm Ray 12-KW</name>
+		<price>2737.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>12KRO11</product_id>
+		<identifier>275</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Protherm</manufacturer>
+		<name>Centrala termica murala electrica Protherm Ray 14-KW</name>
+		<price>2856.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>14KRO11</product_id>
+		<identifier>276</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Protherm</manufacturer>
+		<name>Centrala termica murala electrica Protherm Ray 18-KW</name>
+		<price>2975.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>18KRO11</product_id>
+		<identifier>277</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Protherm</manufacturer>
+		<name>Centrala termica murala electrica Protherm Ray 24-KW</name>
+		<price>3213.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>24KRO11</product_id>
+		<identifier>278</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Protherm</manufacturer>
+		<name>Centrala termica murala electrica Protherm Ray 28-KW</name>
+		<price>3140.41</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>28KRO11</product_id>
+		<identifier>279</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Buderus CR-12004</name>
+		<price>476.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Buderus CR12004</product_id>
+		<identifier>280</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare CKN2.0-S-Tigla-Sistem solar complet</name>
+		<price>9214.17</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>CKN2.0-S-Tigla</product_id>
+		<identifier>283</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Centrala termica murala cu condensare Bosch Condens 2000 W ZWB24-1RE 24-KW</name>
+		<price>3808.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>8731602025</product_id>
+		<identifier>285</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Centrala termica murala cu condensare Bosch Condens 2500 W WBC28-1DCE 24/28-KW</name>
+		<price>3415.30</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>7736900766</product_id>
+		<identifier>287</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Centrala termica murala cu condensare Bosch Condens 3000 W ZWB28-3CE 22/28-KW</name>
+		<price>5537.07</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>7736900597</product_id>
+		<identifier>288</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Centrala termica murala cu condensare Bosch Condens 7000 W ZSBR 28-3E</name>
+		<price>8869.07</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>7738100461</product_id>
+		<identifier>289</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Bosch Condens 7000 W ZWBR 35-3C</name>
+		<price>7368.48</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Bosch Condens 7000 W ZWBR 35-3C</product_id>
+		<identifier>290</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare CKN2.0-S-Tabla-Sistem solar complet</name>
+		<price>9427.18</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>CKN2.0-S-Tabla</product_id>
+		<identifier>291</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare CKN2.0-S-Terasa-Sistem solar complet</name>
+		<price>9564.03</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id> CKN2.0-S-Terasa</product_id>
+		<identifier>292</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>PACHET CENTRALA BUDERUS LOGAMAX PLUS GB072K-24 KW  V2 ERP</name>
+		<price>8782.20</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>BUDERUS LOGAMAX PLUS GB072K-24 KW   </product_id>
+		<identifier>294</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Protherm</manufacturer>
+		<name>Centrala termica murala electrica Protherm Ray 21-KW</name>
+		<price>3451.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>21KRO11</product_id>
+		<identifier>299</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XCKN2.0-S-Tigla-Sistem solar complet</name>
+		<price>11871.44</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>CKN2.0-S-Tigla</product_id>
+		<identifier>306</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XCKN2.0-S-Tabla-Sistem solar complet</name>
+		<price>12297.46</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id> 2XCKN2.0-S</product_id>
+		<identifier>307</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XCKN2.0-S-Terasa-Sistem solar complet</name>
+		<price>12634.23</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id> 2XCKN2.0-S</product_id>
+		<identifier>308</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 3XCKN2.0-S-Tigla-Sistem solar complet</name>
+		<price>12374.81</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>CKN2.0-S-Tigla</product_id>
+		<identifier>309</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 3XCKN2.0-S-Tabla-Sistem solar complet</name>
+		<price>15167.74</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>CKN2.0-S-Tabla</product_id>
+		<identifier>310</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Cronotermostat programabil prin wi-fi Bosch Control CT 100</name>
+		<price>1082.90</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>7736701040</product_id>
+		<identifier>311</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 3XCKN2.0-S-Terasa-Sistem solar complet</name>
+		<price>15704.43</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>CKN2.0-S-TERASA</product_id>
+		<identifier>312</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XSKN4.0-S-Tigla-Sistem solar complet</name>
+		<price>14415.66</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKN4.0-S-Tigla</product_id>
+		<identifier>313</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Computherm</manufacturer>
+		<name>Termostat ambiental neprogramabil fara fir Computherm Q3RF</name>
+		<price>238.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Q3RF</product_id>
+		<identifier>314</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XSKN4.0-S-Tabla-Sistem solar complet</name>
+		<price>14840.49</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKN4.0-S-Tabla</product_id>
+		<identifier>315</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XSKN4.0-S-Terasa-Sistem solar complet</name>
+		<price>15587.81</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKN4.0-S-Terasa</product_id>
+		<identifier>316</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 3XSKN4.0-S-Tigla-Sistem solar complet</name>
+		<price>18108.23</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKN4.0-S-Tigla</product_id>
+		<identifier>317</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 3XSKN4.0-S-Tabla-Sistem solar complet</name>
+		<price>18746.07</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKN4.0-S-Tabla</product_id>
+		<identifier>318</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 3XSKN4.0-S-Terasa-Sistem solar complet</name>
+		<price>19620.72</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKN4.0-S-Terasa</product_id>
+		<identifier>319</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XSKT1.0-S-TIGLA-Sistem solar complet</name>
+		<price>15938.86</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>2XSKT1.0-S-TIGLA</product_id>
+		<identifier>320</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XSKT1.0-S-TABLA-Sistem solar complet</name>
+		<price>16364.88</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKT1.0-S-TABLA</product_id>
+		<identifier>321</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XSKT1.0-S-TERASA-Sistem solar complet</name>
+		<price>16844.45</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id> 2XSKT1.0-S-TERASA</product_id>
+		<identifier>322</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 3XSKT1.0-S-TIGLA-Sistem solar complet</name>
+		<price>20227.62</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>3XSKT1.0-S-TIGLA</product_id>
+		<identifier>323</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 3XSKT1.0-S-TABLA-Sistem solar complet</name>
+		<price>20865.46</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>3XSKT1.0-S-TABLA</product_id>
+		<identifier>324</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 3XSKT1.0-S-Terasa-Sistem solar complet</name>
+		<price>21472.36</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>3XSKT1.0-S-Terasa</product_id>
+		<identifier>325</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XSKN4.0-S-W-Tigla-Sistem solar complet</name>
+		<price>17815.49</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKN4.0-S-W-Tigla</product_id>
+		<identifier>326</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XSKN4.0-S-W-Tabla-Sistem solar complet</name>
+		<price>18240.32</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKN4.0-S-W-Tabla</product_id>
+		<identifier>327</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Pachet panouri solare 2XSKN4.0-S-W-Terasa-Sistem solar complet</name>
+		<price>18778.20</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>SKN4.0-S-W-Terasa</product_id>
+		<identifier>328</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Computherm</manufacturer>
+		<name>Termostat ambiental neprogramabil cu fir Computherm Q3</name>
+		<price>130.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>TC-Q3</product_id>
+		<identifier>329</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Computherm</manufacturer>
+		<name>Termostat ambiental cu fir programabil Computherm Q7</name>
+		<price>145.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>TC-Q7</product_id>
+		<identifier>330</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Computherm</manufacturer>
+		<name>Termostat ambiental programabil fara fir Computherm Q7RF</name>
+		<price>258.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Q7RF</product_id>
+		<identifier>331</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Immergas</manufacturer>
+		<name>Centrala termica in condensare IMMERGAS VICTRIX Maior 35 TT 1 Erp 35-kW</name>
+		<price>5355.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Victrix Maior 35 TT </product_id>
+		<identifier>334</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Viessmann</manufacturer>
+		<name>Centrala termica murala cu condensare Viessmann Vitodens 050-W 24-KW</name>
+		<price>3899.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>BPJD052</product_id>
+		<identifier>349</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Viessmann</manufacturer>
+		<name>Centrala termica murala cu condensare Viessmann Vitodens 050-W 33-KW</name>
+		<price>4879.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>BPJD053</product_id>
+		<identifier>350</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Viessmann</manufacturer>
+		<name> Viessmann Vitodens 100W-35-KW</name>
+		<price>7140.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id> Viessmann Vitodens 100 W 35-KW</product_id>
+		<identifier>356</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Viessmann</manufacturer>
+		<name> Viessmann Vitodens 100W-26-KW</name>
+		<price>6543.81</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id> Viessmann Vitodens 100 W 26-KW</product_id>
+		<identifier>357</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Viessmann</manufacturer>
+		<name>Centrala termica murala conventionala cu tiraj natural Viessmann Vitopend 100-W 24-KW</name>
+		<price>3200.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>A1JA005</product_id>
+		<identifier>358</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Viessmann</manufacturer>
+		<name>Centrala termica murala conventionala cu tiraj natural Viessmann Vitopend 100-W 30-KW</name>
+		<price>4165.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>A1JA007</product_id>
+		<identifier>359</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Viessmann</manufacturer>
+		<name>Vitodens 100-W-26-KW</name>
+		<price>7735.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Vitodens 100-W -26-KW</product_id>
+		<identifier>362</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Viessmann</manufacturer>
+		<name>Vitodens 100-W-35-KW</name>
+		<price>6545.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Vitodens 100-W-35-KW-numai incalzire</product_id>
+		<identifier>363</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Buderus Logamax plus GB192iT100 </name>
+		<price>23800.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>GB192iT100 </product_id>
+		<identifier>379</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Motan</manufacturer>
+		<name>Centrala termica murala conventionala cu tiraj fortat Motan Optimus MT 24 Erp 24-KW</name>
+		<price>2975.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>C15SPV24MEFM-ERP</product_id>
+		<identifier>384</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Motan</manufacturer>
+		<name>Centrala termica murala conventionala cu tiraj fortat Motan Optimus Max 31 Erp 31-KW</name>
+		<price>2618.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>C17SPV31MEF-ERP</product_id>
+		<identifier>385</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ariston</manufacturer>
+		<name>Centrala termica cu condensare Ariston Cares Premium 30-KW</name>
+		<price>4522.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>3300760</product_id>
+		<identifier>387</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ariston</manufacturer>
+		<name>Centrala termica murala cu condensare Ariston Clas Premium Evo 24 EU 24-KW</name>
+		<price>4165.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>3300697</product_id>
+		<identifier>388</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Motan</manufacturer>
+		<name>Centrala termica in condensatie MOTAN SIGMA KDENS 24</name>
+		<price>3094.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica in condensatie MOTAN SIGMA KDENS 24</product_id>
+		<identifier>389</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Centrala termica murala cu condensare Ferroli DivaCondens F24 24-KW</name>
+		<price>2975.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0CBF4EWA</product_id>
+		<identifier>390</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Protherm</manufacturer>
+		<name>Centrala termica in condensatie PROTHERM LYNX CONDENS 25 - A</name>
+		<price>3570.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id> PROTHERM LYNX CONDENS 25 - A</product_id>
+		<identifier>400</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>undefined</manufacturer>
+		<name>Prelungitor coaxial universal 1m pentru centrale termice conventionale</name>
+		<price>178.50</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>PCUCONDENS0.5M</product_id>
+		<identifier>439</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Termostat digital ambiental neprogramabil cu fir Ferroli FER 8</name>
+		<price>119.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Termostat ambient cu fir Ferroli FER 8</product_id>
+		<identifier>451</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Termostat digital ambiental programabil cu fir Ferroli FER 9</name>
+		<price>119.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>HRT177WS</product_id>
+		<identifier>454</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>undefined</manufacturer>
+		<name>Prelungitor coaxial universal 0.5 m pentru centrale termice conventionale</name>
+		<price>142.80</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>PCUCONV0.5M</product_id>
+		<identifier>455</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Rezervor de acumulare (puffer) fara serpentina Ferroli FB 500</name>
+		<price>2380.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>2060015201204</product_id>
+		<identifier>457</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Rezervor de acumulare (puffer) fara serpentina Ferroli FB 800</name>
+		<price>2975.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>2060015201205</product_id>
+		<identifier>458</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Rezervor de acumulare (puffer) fara serpentina Ferrol FB 1000</name>
+		<price>3094.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>2060015201206</product_id>
+		<identifier>459</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Immergas</manufacturer>
+		<name>Centrala termica Immergas Victrix PRO 55-KW</name>
+		<price>10710.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica Immergas Victrix PRO 55-KW</product_id>
+		<identifier>460</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Rezervor de acumulare (puffer) fara serpentina Ferroli FB 1500</name>
+		<price>4879.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>2060015201207</product_id>
+		<identifier>461</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Rezervor de acumulare (puffer) fara serpentina Ferroli FB 2000</name>
+		<price>5117.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Puffer Ferroli FB 2000 litri</product_id>
+		<identifier>462</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Motan</manufacturer>
+		<name>Termostat digital ambiental neprogramabil cu fir Motan WT 190</name>
+		<price>119.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>M5100138</product_id>
+		<identifier>463</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Motan</manufacturer>
+		<name>Centrala termica murala cu condensare Motan MKDENS 25-KW</name>
+		<price>3689.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica murala cu condensare Motan MKDENS 25-KW</product_id>
+		<identifier>464</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Motan</manufacturer>
+		<name>Centrala termica murala cu condensare Motan MKDENS 36-KW</name>
+		<price>4998.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrla termica murala cu condensare Motan MKDENS 36-KW</product_id>
+		<identifier>465</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Motan</manufacturer>
+		<name>Centrala termica murala cu condensare Motan MKDENS 25-KW</name>
+		<price>3570.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica murala cu condensare Motan MKDENS 25</product_id>
+		<identifier>466</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Motan</manufacturer>
+		<name>Centrala termica murala cu condensare Motan MKDENS 36-KW</name>
+		<price>4760.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrla termica murala cu condensare Motan MKDENS 36-KW</product_id>
+		<identifier>467</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Arca </manufacturer>
+		<name>Centrala termica murala cu condensare Arca Pixel 25 FC</name>
+		<price>4165.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica murala cu condensare Arca Pixel 25 FC</product_id>
+		<identifier>481</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Centrala termica murala cu condensare Ferroli New Condens 550 FS-550 KW</name>
+		<price>89250.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0M6OBI11</product_id>
+		<identifier>503</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Centrala termica murala cu condensare Ferroli Econcept 51 A-E</name>
+		<price>11305.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica murala Ferroli Econcept 51 A-E</product_id>
+		<identifier>511</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Centrala termica murala cu condensare Ferroli Energy Top W 60 KW</name>
+		<price>16660.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica murala Ferroli Energy Top W 60 KW</product_id>
+		<identifier>512</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Centrala termica murala cu condensare  Ferroli Energy Top W 80  KW</name>
+		<price>16660.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica murala Ferroli Energy Top W 80 KW</product_id>
+		<identifier>513</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Centrala termica murala cu condensare Ferroli Energy Top W 125</name>
+		<price>21420.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Centrala termica murala Ferroli Energy Top W 125 KW</product_id>
+		<identifier>514</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Centrala termica murala cu condensare Ferroli BLUEHELIX 25 K50</name>
+		<price>7497.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0TAX2AWA</product_id>
+		<identifier>515</identifier>
+		<action_text>Garantie 5 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Centrala termica murala cu condensare Ferroli BLUEHELIX 32 K50</name>
+		<price>6783.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0TAX3AWA</product_id>
+		<identifier>516</identifier>
+		<action_text>Garantie 5 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Breta Plus 5,5 </name>
+		<price>952.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu FERROLI BRETA PLUS 5.5 KW</product_id>
+		<identifier>517</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Piave</name>
+		<price>1071.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu Ferroli Piave</product_id>
+		<identifier>518</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>undefined</manufacturer>
+		<name>Prelungitor coaxial universal 0.25 m pentru centrale termice conventionale</name>
+		<price>95.20</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>PCUCONV0.25M</product_id>
+		<identifier>519</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Piave Plus</name>
+		<price>1071.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu Ferroli Piave Plus</product_id>
+		<identifier>520</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Salerno</name>
+		<price>1190.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu Salerno</product_id>
+		<identifier>521</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Milena</name>
+		<price>952.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu Ferroli Milena</product_id>
+		<identifier>523</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Brescia F</name>
+		<price>1071.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu Ferroli Brescia  F</product_id>
+		<identifier>524</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Immergas</manufacturer>
+		<name>Centrala termica murala conventionala cu tiraj natural Immergas Nike Star 24 KW</name>
+		<price>2300.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>3024933</product_id>
+		<identifier>525</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Padova F</name>
+		<price>1190.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu Ferroli Padova F</product_id>
+		<identifier>526</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Cesena F 9 KW</name>
+		<price>1309.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu Cesena F</product_id>
+		<identifier>527</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Mirano</name>
+		<price>1547.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu Ferroli Mirano</product_id>
+		<identifier>528</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Ferroli</manufacturer>
+		<name>Semineu Ferroli Mirano C</name>
+		<price>2142.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Semineu Ferroli Mirano C</product_id>
+		<identifier>529</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Buderus</manufacturer>
+		<name>Centrala termica murala cu condensare Buderus Logamax plus GB 172-24T50</name>
+		<price>7140.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>7716701519</product_id>
+		<identifier>539</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>undefined</manufacturer>
+		<name>Filtru Y 1/2</name>
+		<price>47.60</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Filtru Y 1/2</product_id>
+		<identifier>540</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Ciocan rotopercutor Bosch GBH 5-40 D</name>
+		<price>2565.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0611269001</product_id>
+		<identifier>543</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Masina de gaurit si insurubat  Bosch GSR 140-Li</name>
+		<price>535.88</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>06019F8000</product_id>
+		<identifier>545</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Masina de gaurit cu percutie Bosch GSB 13 RE</name>
+		<price>319.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>0601217100</product_id>
+		<identifier>546</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Polizor unghilar mic Bosch GWS 750 (115 mm)</name>
+		<price>314.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>0601394000</product_id>
+		<identifier>547</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Polizor unghilar mic Bosch GWS 750 (125 mm)</name>
+		<price>334.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>0601394001</product_id>
+		<identifier>548</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Polizor unghiular Bosch GWS 1000</name>
+		<price>460.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0601828800</product_id>
+		<identifier>549</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Polizor unghiular Bosch GWS 1400</name>
+		<price>511.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0601824800</product_id>
+		<identifier>550</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Polizor unghiular Bosch GWS 22-230 JH</name>
+		<price>655.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0601882M03</product_id>
+		<identifier>551</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Telemetru cu laser Bosch GLM 40</name>
+		<price>420.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0601072900</product_id>
+		<identifier>553</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Nivela laser cu linii Bosch GLL 2-10</name>
+		<price>435.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>0601063L00</product_id>
+		<identifier>554</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch Professional pentru gaurire cu percutie SDS-max-7, 18 x 400 x 540 mm</name>
+		<price>177.61</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608586759</product_id>
+		<identifier>555</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch Professional pentru gaurire cu percutie SDS-max-7,  20 x 400 x 520 mm</name>
+		<price>186.17</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608586766</product_id>
+		<identifier>556</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch Professional pentru gaurire cu percutie SDS-max-7,  22 x 400 x 520 mm</name>
+		<price>200.08</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608586771</product_id>
+		<identifier>557</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch Professional pentru gaurire cu percutie SDS-max-7,  24 x 400 x 520 mm</name>
+		<price>283.54</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608586776</product_id>
+		<identifier>558</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch Professional pentru gaurire cu percutie SDS-max-7, 32 x 400 x 520 mm</name>
+		<price>385.19</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>2608586792</product_id>
+		<identifier>559</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch Professional pentru gaurire cu percutie SDS-max-7,  35 x 400 x 520 mm</name>
+		<price>452.60</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>2608586796</product_id>
+		<identifier>560</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch Professional de străpungere SDS-max-9 Break Through,  20 x 400 x 520 mm</name>
+		<price>909.49</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>1618596457</product_id>
+		<identifier>561</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 5 x 50 x 110 mm</name>
+		<price>11.77</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833771</product_id>
+		<identifier>562</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch  pentru gaurire cu percutie SDS-Plus-5X, 6 x 50 x 110 mm</name>
+		<price>11.77</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833777</product_id>
+		<identifier>563</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 6 x 100 x 160 mm</name>
+		<price>10.69</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833778</product_id>
+		<identifier>564</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 8 x 100 x 160 mm</name>
+		<price>14.99</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833789</product_id>
+		<identifier>565</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 8 x 150 x 210 mm</name>
+		<price>18.19</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833790</product_id>
+		<identifier>566</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 10 x 100 x 160 mm</name>
+		<price>18.19</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833798</product_id>
+		<identifier>567</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview A8 Lite, Dual Sim, 8GB, Black</name>
+		<price>370.21</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview A8 Lite, Dual Sim, 8GB, Black</product_id>
+		<identifier>569</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview D1 Flip, Dual Sim, Black</name>
+		<price>171.08</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview D1 Flip</product_id>
+		<identifier>570</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 10 x 150 x 210 mm</name>
+		<price>21.40</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833799</product_id>
+		<identifier>571</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview D1 Senior, Dual Sim, Black</name>
+		<price>171.19</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview D1 Senior</product_id>
+		<identifier>572</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 12 x 100 x 160 mm</name>
+		<price>20.33</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833807</product_id>
+		<identifier>573</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview E3 Jump, 16GB, 4G, Black</name>
+		<price>827.10</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview E3 Jump</product_id>
+		<identifier>574</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 12 x 150 x 210 mm</name>
+		<price>24.61</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833808</product_id>
+		<identifier>575</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 14 x 100 x 160 mm</name>
+		<price>31.03</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608833816</product_id>
+		<identifier>576</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 20 x 400 x 450 mm</name>
+		<price>112.35</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>1618596263</product_id>
+		<identifier>577</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview H3 Join, Black</name>
+		<price>212.92</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview H3 Join</product_id>
+		<identifier>578</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview L5 Lite, Black</name>
+		<price>95.23</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview L5 Lite</product_id>
+		<identifier>579</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 22 x 400 x 450 mm</name>
+		<price>182.97</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>1618596233</product_id>
+		<identifier>580</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview M7 Stark, Dual SIM, Black</name>
+		<price>128.39</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview M7 Stark</product_id>
+		<identifier>581</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru gaurire cu percutie SDS-Plus-5X, 24 x 400 x 450 mm</name>
+		<price>170.12</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>1618596237</product_id>
+		<identifier>582</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch multifuncţional CYL-9 Multi Construction 4 x 40 x 75 mm</name>
+		<price>14.98</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596050</product_id>
+		<identifier>583</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview M9 Connect, Dual Sim, Black</name>
+		<price>213.88</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview M9 Connect</product_id>
+		<identifier>584</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview M9 Join, Dual Sim, Black</name>
+		<price>191.52</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview M9 Join</product_id>
+		<identifier>586</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview M9 Jump, Dual Sim, Black</name>
+		<price>341.32</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview M9 Jump</product_id>
+		<identifier>587</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch multifuncţional CYL-9 Multi Construction 5 x 50 x 85 mm</name>
+		<price>17.12</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596051</product_id>
+		<identifier>588</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch multifuncţional CYL-9 Multi Construction 6 x 60 x 100 mm</name>
+		<price>14.98</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596053</product_id>
+		<identifier>590</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch multifuncţional CYL-9 Multi Construction 8 x 80 x 120 mm</name>
+		<price>17.12</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596055</product_id>
+		<identifier>591</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P5 Lite, Dual SIM, 8GB, 4G, Black</name>
+		<price>370.21</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P5 Lite</product_id>
+		<identifier>592</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon Mobil Allview P4 PRO, 4G FDD TDD, Dual SIM, Display 4.2&quot;  HD IPS , camera 5+0.3 Mpx, 4core, 1 GB Ram, 8 GB, Android 7.0, Black</name>
+		<price>333.82</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview P4 Pro Black</product_id>
+		<identifier>593</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P6 Energy Mini, Dual Sim, 8GB, 4G</name>
+		<price>445.11</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P6 Energy Mini</product_id>
+		<identifier>594</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch multifuncţional CYL-9 Multi Construction 10 x 80 x 120 mm</name>
+		<price>21.40</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596057</product_id>
+		<identifier>595</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P6 Lite, Dual SIM, 8GB</name>
+		<price>383.05</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P6 Lite</product_id>
+		<identifier>596</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P6 Plus, Dual SIM, 8GB</name>
+		<price>476.14</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P6 Plus</product_id>
+		<identifier>597</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P7 Pro, Dual SIM, 16GB, 4G, Grey</name>
+		<price>597.05</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P7 Pro</product_id>
+		<identifier>599</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Black &amp; Decker</manufacturer>
+		<name>Masina de gaurit cu percutie Black+Decker 710W + valiza KR714CRESK</name>
+		<price>316.71</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>KR714CRES-QS</product_id>
+		<identifier>601</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Black &amp; Decker</manufacturer>
+		<name>Masina de gaurit si insurubat cu acumulator Li-Ion Black&amp;Decker BDCDC18KB, 18 V, 1.5 AH </name>
+		<price>540.34</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>BDCDC18KB-QW</product_id>
+		<identifier>603</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru metal HSS-Co Standardline, DIN 338; 4 x 43 x 75 mm</name>
+		<price>8.55</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608585846</product_id>
+		<identifier>604</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru metal HSS-Co Standardline, DIN 338; 5 x 52 x 86 mm</name>
+		<price>11.77</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608585851</product_id>
+		<identifier>605</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru metal HSS-Co Standardline, DIN 338; 6 x 57 x 93 mm</name>
+		<price>13.91</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608585855</product_id>
+		<identifier>606</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch pentru metal HSS-Co Standardline, DIN 338; 8 x 75 x 117 mm</name>
+		<price>27.81</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608585860</product_id>
+		<identifier>607</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch elicoidale standard pentru lemn 3 x 33 x 61 mm</name>
+		<price>4.27</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596300</product_id>
+		<identifier>608</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch elicoidale standard pentru lemn 4 x 43 x 75 mm</name>
+		<price>5.34</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596301</product_id>
+		<identifier>609</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch elicoidale standard pentru lemn 5 x 52 x 86 mm</name>
+		<price>5.34</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596302</product_id>
+		<identifier>610</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch elicoidale standard pentru lemn 6 x 57 x 93 mm</name>
+		<price>6.41</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596303</product_id>
+		<identifier>611</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch elicoidale standard pentru lemn 7 x 69 x 109 mm</name>
+		<price>6.42</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596304</product_id>
+		<identifier>612</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Burghiu Bosch elicoidale standard pentru lemn 8 x 75 x 117 mm</name>
+		<price>8.55</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608596305</product_id>
+		<identifier>613</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Daltă Bosch lata cu sistem de prindere SDS-plus; 250 x 20 mm</name>
+		<price>44.93</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2609390394</product_id>
+		<identifier>614</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Dalta Bosch ascutita cu sistem de prindere SDS-plus; 250 mm</name>
+		<price>44.93</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2609390576</product_id>
+		<identifier>615</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Dalta Bosch lata RTec Sharp cu sistem de prindere SDS-max</name>
+		<price>65.26</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608690124</product_id>
+		<identifier>616</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bosch</manufacturer>
+		<name>Dalta Bosch ascutita RTec Speed cu sistem de prindere SDS-max</name>
+		<price>72.75</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>2608690167</product_id>
+		<identifier>617</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Tableta Allview AX501Q, 7’’, Quad-Core 1.0 GHz, 1GB RAM, 8GB, 3G, Black</name>
+		<price>390.54</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview AX501Q</product_id>
+		<identifier>618</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Tableta Allview Viva C701, 7'', Quad-Core 1.20GHz, 1GB RAM, 8GB, Black</name>
+		<price>308.15</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview Viva C701</product_id>
+		<identifier>620</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Tableta Allview Viva C702, 7&quot;, 8GB, Quad-Core, White</name>
+		<price>306.01</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview Viva C702 White</product_id>
+		<identifier>623</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Tableta Allview Viva H802, 8&quot;, Quad-Core 1.0 GHz, 2GB RAM, 16GB, 4G, Black</name>
+		<price>798.21</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview Viva H802 Black</product_id>
+		<identifier>625</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Tableta Allview Viva H1001, 10.1&quot;, Quad Core 1Ghz, 1GB RAM, 8GB, 4G, IPS, Black</name>
+		<price>704.05</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview Viva H1001 LTE</product_id>
+		<identifier>626</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Tableta Allview Viva H1002, 10.1&quot;, Quad Core 1Ghz, 3GB RAM, 16GB, 4G, IPS, Black, Android 7 </name>
+		<price>905.21</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview Viva H1002 LTE</product_id>
+		<identifier>628</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P8 Life, Dual Sim, 16GB, 4G</name>
+		<price>565.99</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P8 Life </product_id>
+		<identifier>631</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P9 Energy, Dual SIM, 64GB, 4G, Gold</name>
+		<price>1825.41</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P9 Energy Gold</product_id>
+		<identifier>632</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P9 Energy, Dual SIM, 64GB, 4G, Dark Gold</name>
+		<price>1826.48</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P9 Energy Dark Gold</product_id>
+		<identifier>633</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P9 Energy Lite, Dual SIM, 32GB, 4G, Gold</name>
+		<price>1020.77</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P9 Energy Lite Gold</product_id>
+		<identifier>634</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P9 Energy Lite 2017, 5.2&quot;,  Dual SIM, 3GB RAM,  32GB, 4G</name>
+		<price>1012.21</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P9 Energy Lite 2017</product_id>
+		<identifier>635</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P9 Energy Mini, Dual SIM, 16GB, 4G</name>
+		<price>781.09</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P9 Energy Mini</product_id>
+		<identifier>636</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P41 Emagic, Dual SIM, 8GB, Black</name>
+		<price>295.31</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview P41 Emagic Black</product_id>
+		<identifier>637</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview V2 Viper S, Dual SIM, 32GB, 4G</name>
+		<price>1048.59</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview V2 Viper S, Dual SIM, 32GB, 4G</product_id>
+		<identifier>639</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Beretta</manufacturer>
+		<name>Centrala termica murala cu condensare Beretta Quadra Green 25 C.S.I/ ERP</name>
+		<price>2599.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Quadra Green 25 C.S.I./ERP</product_id>
+		<identifier>640</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Beretta</manufacturer>
+		<name>Centrala termica murala cu condensare Beretta Quadra Green 30 C.S.I./ERP</name>
+		<price>2999.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Quadra Green 30 C.S.I./ERP</product_id>
+		<identifier>641</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Beretta</manufacturer>
+		<name>Centrala termica murala cu condensare Beretta Mynute Green E 38 C.S.I. /ERP</name>
+		<price>3999.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Mynute Green E 38 C.S.I. /ERP</product_id>
+		<identifier>642</identifier>
+		<action_text>Garantie 3 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview X3 Soul Plus, Dual SIM, 32GB, 4G, Gold</name>
+		<price>1225.14</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X3 Soul Plus, Dual SIM, 32GB, 4G, Gold</product_id>
+		<identifier>650</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon Mobil Allview X4 Soul Mini, 2GB , 16 GB ,13 Mpx, Gold</name>
+		<price>776.81</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Mini, 2GB , 16 GB ,13 Mpx, Gold</product_id>
+		<identifier>651</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon Mobil Allview X4 Soul Mini, 2GB , 16 GB ,13 Mpx, Black</name>
+		<price>776.81</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Mini, 2GB , 16 GB ,13 Mpx, Black</product_id>
+		<identifier>652</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon Mobil Allview X4 Soul Mini, 3GB , 16 GB ,13 Mpx, Black</name>
+		<price>819.61</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Mini, 3GB , 16 GB ,13 Mpx, Black</product_id>
+		<identifier>653</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon Mobil Allview X4 Soul Mini, 3GB , 16 GB ,13 Mpx, Gold</name>
+		<price>819.61</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Mini, 3GB , 16 GB ,13 Mpx, Gold</product_id>
+		<identifier>654</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview X4 Soul Xtreme , Full HD 6&quot;, Dual Camera 13/5, camera frontala 20 MPX , 4GB RAM 64GB, 4G, Black</name>
+		<price>1608.99</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Xtreme</product_id>
+		<identifier>655</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview X4 Soul Style, 4 GB , 64GB, Full HD, 16 Mpx Front Camera, Gold</name>
+		<price>1412.39</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Style, Gold</product_id>
+		<identifier>656</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview X4 Soul Style, 4 GB , 64GB, Full HD 16, Mpx Front Camera, Black</name>
+		<price>1412.39</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Style, Black</product_id>
+		<identifier>657</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon Allview X4 Soul Mini S, 5&quot;, Quad Core, 16 GB, camera frontala de 8  Mpx, 4G, Fingerprint, Metalic, Blue</name>
+		<price>631.29</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Mini S, Blue</product_id>
+		<identifier>658</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon Allview X4 Soul Mini S, 5&quot;, Quad Core, 16 GB, camera frontala de 8  Mpx, 4G, Fingerprint, Metalic, Black</name>
+		<price>631.29</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Mini S, Black</product_id>
+		<identifier>659</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview X4 Soul LITE , Full HD 5.5&quot;, Dual Camera, 4GB RAM 32 GB, 4G, Black</name>
+		<price>1440.21</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Lite,4GB, Black</product_id>
+		<identifier>662</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview X4 Soul LITE , Full HD 5.5&quot;, Dual Camera, 4GB RAM,  32GB, 4G, Gold</name>
+		<price>1440.21</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview X4 Soul Lite,4G, Gold</product_id>
+		<identifier>663</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview P5 Pro, Dual SIM, 8GB, 4G, Black</name>
+		<price>402.31</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>Allview P5 Pro Black</product_id>
+		<identifier>664</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon mobil Allview A5 Ready, 3G, Dual SIM,display 4&quot;, camera 5 Mpx+0.3 Mpx, 4core, 1GB Ram, 8GB, Android 6.0</name>
+		<price>298.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview A5 Ready</product_id>
+		<identifier>665</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Allview</manufacturer>
+		<name>Telefon Mobil Allview P42, 3G, Dual SIM, display 4&quot;, camera 5 Mpx+0.3 Mpx, 2core, 512MB Ram, 8 GB, Android 6.0</name>
+		<price>326.32</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>Allview P42</product_id>
+		<identifier>666</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Car Tape Bandă dublu adezivă pentru auto, 1,5mx19mm</name>
+		<price>9.49</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400030</product_id>
+		<identifier>669</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Air Max Rezervă pentru absorbant de umiditate, 450g fără parfum</name>
+		<price>9.16</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>460102</product_id>
+		<identifier>670</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Air Max Rezervă pentru absorbant de umiditate, 450g parfum lavandă</name>
+		<price>9.16</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>460103</product_id>
+		<identifier>671</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Air Max Absorbant de umiditate, 450g</name>
+		<price>33.23</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>460101</product_id>
+		<identifier>672</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Montage Kit Tape Bandă dublu adezivă pentru construcții, 1,5mx19mm</name>
+		<price>26.86</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400036</product_id>
+		<identifier>673</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Carpet Tape, Bandă dublu adezivă pentru mochetă, 0,05mx10m blister</name>
+		<price>26.86</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>490004</product_id>
+		<identifier>674</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Banda de etanşare siliconică, albă 38mmx3,35m</name>
+		<price>46.69</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>490104</product_id>
+		<identifier>675</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Flooring Adeziv pentru pardoseli 6kg</name>
+		<price>66.18</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>440011</product_id>
+		<identifier>676</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Poly Max High Tack Express Adeziv şi etanşeizant, alb, 425g</name>
+		<price>24.70</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>428980</product_id>
+		<identifier>677</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Silicon High Temp, rezistent la temperatură ridicată, roşu 60ml</name>
+		<price>13.09</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>425100</product_id>
+		<identifier>678</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Spumă poliuretanică, cu aplicator, pentru iarnă</name>
+		<price>16.93</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>451007</product_id>
+		<identifier>679</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Poly Max Polymer Adeziv şi etanşeizant, alb, 465g</name>
+		<price>21.23</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>428975</product_id>
+		<identifier>680</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON 1000 Cement Mastic refractar, 530g</name>
+		<price>24.14</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>428001</product_id>
+		<identifier>681</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON PU Flex Etanşeizant poliuretanic, negru, 300ml</name>
+		<price>18.31</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>425021</product_id>
+		<identifier>682</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Kit Adeziv de contact, universal 4,5l</name>
+		<price>113.15</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>442009</product_id>
+		<identifier>683</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Polystirene Foam Adeziv poliuretanic pentru polistiren, pentru pistol, 700ml</name>
+		<price>25.08</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>451016</product_id>
+		<identifier>684</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Gun&amp;Foam Cleaner Spray pentru curăţarea spumei, 500ml</name>
+		<price>21.42</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>425020</product_id>
+		<identifier>685</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Super Wood D3 Adeziv PVAC pentru lemn 250g</name>
+		<price>14.54</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>420010</product_id>
+		<identifier>686</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Montage Kit Extreme Grip Adeziv pentru construcţii 370g</name>
+		<price>19.56</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>429011</product_id>
+		<identifier>687</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Power Adhesive Adeziv poliuretanic universal, 65ml</name>
+		<price>23.79</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400015</product_id>
+		<identifier>688</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Super Wood D3 Adeziv PVAC pentru lemn 750g</name>
+		<price>38.52</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>420011</product_id>
+		<identifier>689</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Epoxy Repair Universal Chit epoxidic bicomponent, 56g</name>
+		<price>12.85</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400031</product_id>
+		<identifier>690</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON PU Max Adeziv poliuretanic pentru lemn D4, 75ml</name>
+		<price>12.19</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>440949</product_id>
+		<identifier>691</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Epoxy Stick Aqua Chit epoxidic bicomponent, 56g</name>
+		<price>15.64</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400032</product_id>
+		<identifier>692</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Mirror Adhesive Adeziv pentru oglinzi 430g</name>
+		<price>39.75</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400049</product_id>
+		<identifier>693</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON PU Max Timber Express Adeziv poliuretanic, monocomponent, pentru lemn, 310ml</name>
+		<price>48.67</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>440052</product_id>
+		<identifier>694</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Epoxy Repair 5 min Chit epoxidic bicomponent, 56g</name>
+		<price>10.04</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>420009</product_id>
+		<identifier>695</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON PU Max Adeziv poliuretanic pentru lemn, 750g</name>
+		<price>56.06</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>440048</product_id>
+		<identifier>696</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Montage Kit Polystirene Adeziv pentru polistiren 4kg</name>
+		<price>58.76</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>440012</product_id>
+		<identifier>697</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Epoxy Metal Adeziv bicomponent rapid 2x12ml</name>
+		<price>17.11</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400005</product_id>
+		<identifier>698</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Epoxy Metal Adeziv bicomponent universal, 2x12ml</name>
+		<price>15.05</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400006</product_id>
+		<identifier>699</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Ancoră chimică, 300ml</name>
+		<price>53.24</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>429012</product_id>
+		<identifier>700</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Poly Max Crystal Express Adeziv şi etanşeizant, transparent 300g</name>
+		<price>33.29</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>428977</product_id>
+		<identifier>701</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Silicon pentru sticlă, transparent, 280ml</name>
+		<price>15.05</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>424003</product_id>
+		<identifier>702</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Montage Kit Polystirene Adeziv pentru polistiren 1kg</name>
+		<price>18.46</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>440009</product_id>
+		<identifier>703</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Poly Max Express Adeziv şi etanşeizant, alb 425g</name>
+		<price>24.70</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>428976</product_id>
+		<identifier>704</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Spumă poliuretanică, monocomponentă, profesională 750ml</name>
+		<price>20.87</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>451004</product_id>
+		<identifier>705</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Silicon High Temp, rezistent la temperatură ridicată, roşu 280ml</name>
+		<price>19.01</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>425102</product_id>
+		<identifier>706</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Silicon Universal, alb 280ml</name>
+		<price>11.44</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>423007</product_id>
+		<identifier>707</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Polystirene Foam Adeziv poliuretanic pentru polistiren, cu aplicator, 750ml</name>
+		<price>26.29</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>451015</product_id>
+		<identifier>708</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Montage Kit Polystirene Adeziv pentru polistiren 470g</name>
+		<price>14.16</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>440022</product_id>
+		<identifier>709</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Spumă poliuretanică, cu aplicator 700ml</name>
+		<price>19.57</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>451003</product_id>
+		<identifier>710</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Silicon Sanitar alb</name>
+		<price>11.78</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>423005</product_id>
+		<identifier>711</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Silicon Universal, alb 280ml</name>
+		<price>11.70</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>423008</product_id>
+		<identifier>712</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Montage Kit Super Strength Adeziv pentru construcţii 350g</name>
+		<price>14.89</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>429001</product_id>
+		<identifier>713</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Silicon Sanitar transparent</name>
+		<price>11.78</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>423006</product_id>
+		<identifier>714</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Kit Adeziv de contact, universal 650ml</name>
+		<price>21.18</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>442003</product_id>
+		<identifier>715</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Epoxy Metal Adeziv bicomponent cu aspect metalic, 2x12ml</name>
+		<price>22.65</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400004</product_id>
+		<identifier>716</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Acrylic Etanşeizant acrilic alb</name>
+		<price>8.09</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>426005</product_id>
+		<identifier>717</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Wood Sealant Mastic pentru lemn cireş</name>
+		<price>8.44</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>420014</product_id>
+		<identifier>718</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Wood Sealant Mastic pentru lemn wenge</name>
+		<price>8.44</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>420019</product_id>
+		<identifier>720</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Wood Sealant Mastic pentru lemn stejar deschis</name>
+		<price>8.44</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>420012</product_id>
+		<identifier>721</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Wood Sealant Mastic pentru lemn merbau</name>
+		<price>8.44</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>420015</product_id>
+		<identifier>722</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Wood Sealant Mastic pentru lemn stejar</name>
+		<price>8.44</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>420013</product_id>
+		<identifier>724</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Soluţie antimucegai, cu pulverizator, 500ml</name>
+		<price>23.99</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>460100</product_id>
+		<identifier>725</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Soluţie antimucegai, cu pulverizator, fărăr clor, 500ml</name>
+		<price>19.99</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>460130</product_id>
+		<identifier>726</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Adeziv pentru tapet universal, 150g</name>
+		<price>8.29</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>430000</product_id>
+		<identifier>727</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Banda de etanşare siliconică, albă 22mmx3,35m</name>
+		<price>35.76</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>490101</product_id>
+		<identifier>728</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Lubrit-All Lubrifiant universal, 400ml</name>
+		<price>17.61</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>460004</product_id>
+		<identifier>729</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Kit Adeziv de contact, universal 250ml</name>
+		<price>21.50</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>442001</product_id>
+		<identifier>730</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Montagekit Transparent Adeziv pentru construcţii, transparent, 310g</name>
+		<price>26.72</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>429010</product_id>
+		<identifier>731</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Flooring Adeziv pentru pardoseli 1kg</name>
+		<price>17.62</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>440010</product_id>
+		<identifier>732</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Car Mirror Adeziv pentru oglinzi auto, 2ml</name>
+		<price>31.37</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>400024</product_id>
+		<identifier>733</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Spumă poliuretanică, cu aplicator 300ml</name>
+		<price>10.28</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>451009</product_id>
+		<identifier>734</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Set pistol de lipit la cald Super + rezerve pentru pistol Super</name>
+		<price>103.46</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>491357</product_id>
+		<identifier>735</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Set pistol de lipit la cald Hobby + rezerva pentru pistol Hobby</name>
+		<price>59.98</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>491356</product_id>
+		<identifier>736</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Bison</manufacturer>
+		<name>BISON Super Glue Adeziv cianoacrilat 12x3g</name>
+		<price>2.37</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>401000</product_id>
+		<identifier>737</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Black &amp; Decker</manufacturer>
+		<name>BLACK&amp;DECKER Polizor unghiular, 900W, KG912 -QS</name>
+		<price>232.83</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>755108</product_id>
+		<identifier>738</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Black &amp; Decker</manufacturer>
+		<name>BLACK&amp;DECKER Polizor unghiular, 750W, KG115-XK</name>
+		<price>159.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>755107</product_id>
+		<identifier>739</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Black &amp; Decker</manufacturer>
+		<name>BLACK&amp;DECKER Ciocan rotopercutor, 800W, KD985KA</name>
+		<price>557.60</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>755103</product_id>
+		<identifier>741</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 11 600*400</name>
+		<price>101.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa44</product_id>
+		<identifier>742</identifier>
+		<action_text>Garantie 10 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 11 600*500</name>
+		<price>111.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa45</product_id>
+		<identifier>743</identifier>
+		<action_text>Garantie 10 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 11 600*600</name>
+		<price>130.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa46</product_id>
+		<identifier>744</identifier>
+		<action_text>Garantie 10 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 11 600*700</name>
+		<price>146.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa47</product_id>
+		<identifier>745</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*400</name>
+		<price>118.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa29</product_id>
+		<identifier>746</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*500</name>
+		<price>142.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa30</product_id>
+		<identifier>747</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*600</name>
+		<price>161.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa31</product_id>
+		<identifier>748</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*700</name>
+		<price>186.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa32</product_id>
+		<identifier>749</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*800</name>
+		<price>203.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa33</product_id>
+		<identifier>750</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*900</name>
+		<price>226.50</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa34</product_id>
+		<identifier>751</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*1000</name>
+		<price>229.50</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa35</product_id>
+		<identifier>752</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*1100</name>
+		<price>263.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa36</product_id>
+		<identifier>753</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*1200</name>
+		<price>275.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa37</product_id>
+		<identifier>754</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*1400</name>
+		<price>328.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>copa39</product_id>
+		<identifier>755</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*1600</name>
+		<price>367.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>copa40</product_id>
+		<identifier>756</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*1800</name>
+		<price>408.50</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>copa41</product_id>
+		<identifier>757</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*2000</name>
+		<price>456.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>copa42</product_id>
+		<identifier>758</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Copa</manufacturer>
+		<name>Radiator panou de otel COPA KONVEKS 22 600*2200</name>
+		<price>507.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>Free</delivery_cost>
+		<product_id>copa43</product_id>
+		<identifier>759</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Black &amp; Decker</manufacturer>
+		<name>BLACK&amp;DECKER Fierăstrău pendular, 400W, KS501 -XK</name>
+		<price>141.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>755106</product_id>
+		<identifier>761</identifier>
+		<action_text>Garantie 2 ani</action_text>
+	</product>
+	<product>
+		<manufacturer>Dremel</manufacturer>
+		<name>Pistol de lipit DREMEL 910</name>
+		<price>64.00</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>F0130910JA</product_id>
+		<identifier>762</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+	<product>
+		<manufacturer>Dremel</manufacturer>
+		<name>Pistol de lipit DREMEL 910 + Baghete de lipit universale de temperatură mică DREMEL 7 mm</name>
+		<price>81.99</price>
+		<currenct>Ron</currency>
+		<delivery_cost>30  Ron</delivery_cost>
+		<product_id>F0130910JA/2615GG02JA</product_id>
+		<identifier>763</identifier>
+		<action_text>faragarantie</action_text>
+	</product>
+</products>
